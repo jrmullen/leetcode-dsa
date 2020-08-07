@@ -1,7 +1,7 @@
 # algo-study
 Chill algo study
 
-| Number   |      Problem      | difficulty |  Solution |
+| Number   |      Problem      | Difficulty |  Solution |
 |:---------:|:-------------:|:------:|:------:|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [#3](/../../issues/3) |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [#4](/../../issues/4) |
