@@ -5,21 +5,22 @@
  * @return {number}
  */
 const maxArea = (height) => {
-    let result = 0;
+    let largest = 0;
 
-    for (let i = 0; i < height.length; i++) {
-        for (let j = height.length - 1; j > 0; j--) {
-            const width = j - i;
-            const length = Math.min(height[i], height[j])
-            const area = length * width;
+    let l = 0;
+    let r = height.length - 1;
 
-            if (area > result) {
-                result = area;
-            }
-        }
+    while (l < r) {
+        const width = r - l;
+        const length = Math.min(height[l], height[r])
+        const area = length * width;
+
+        largest = Math.max(largest, area);
+
+        height[l] < height[r] ? l++ : r--
     }
 
-    return result;
+    return largest;
 };
 
 const height = [1, 8, 6, 2, 5, 4, 8, 3, 7];
