@@ -2,7 +2,7 @@
 Chill algo study
 
 | Number   |      Problem      | Difficulty | Topic | Solution |
-|:---------:|:-------------:|:------:|:------:|
+|:--------:|:-----------------:|:----------:|:-----:|:--------:|
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Arrays | [#10](/../../issues/10) |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | Database | [#3](/../../issues/3) |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | Database | [#4](/../../issues/4)
