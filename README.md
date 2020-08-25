@@ -4,7 +4,7 @@ Chill algo study
 | Number   |      Problem      | Difficulty | Topic | Solution |
 |:--------:|:-----------------:|:----------:|:-----:|:--------:|
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Arrays | [#10](/../../issues/10) |
-| 11  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [#11](/../../issues/11) |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [#11](/../../issues/11) |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | Database | [#3](/../../issues/3) |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | Database | [#4](/../../issues/4)
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | Database | [#5](/../../issues/5) |
