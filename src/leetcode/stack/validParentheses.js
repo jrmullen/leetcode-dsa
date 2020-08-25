@@ -10,18 +10,14 @@ const isValid = (s) => {
 
         if (char === '(' || char === '[' || char === '{') {
             stack.push(char);
-        }
-
-        if (char === ')' && stack[top] === '(') {
+        } else if (stack.length !== 0 && char === ')' && stack[top] === '(') {
             stack.pop();
-        }
-
-        if (char === ']' && stack[top] === '[') {
+        } else if (stack.length !== 0 && char === ']' && stack[top] === '[') {
             stack.pop();
-        }
-
-        if (char === '}' && stack[top] === '{') {
+        } else if (stack.length !== 0 && char === '}' && stack[top] === '{') {
             stack.pop();
+        } else {
+            return false;
         }
     }
 
