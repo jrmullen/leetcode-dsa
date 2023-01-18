@@ -6,6 +6,7 @@ Chill algo study
 |   1    |                                    [Two Sum](https://leetcode.com/problems/two-sum/)                                    |    Easy    |    Arrays    | [#25](/../../issues/25) |
 |   11   |                  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                  |   Medium   |    Arrays    | [#10](/../../issues/10) |
 |   20   |                          [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                          |    Easy    |    Stack     | [#11](/../../issues/11) |
+|   49   |                             [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             |   Medium   |    Arrays    | [#11](/../../issues/27) |
 |  175   |                         [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                         |    Easy    |   Database   |  [#3](/../../issues/3)  |
 |  176   |                      [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                      |    Easy    |   Database   |  [#4](/../../issues/4)  |
 |  177   |                         [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)                         |   Medium   |   Database   |  [#5](/../../issues/5)  |
