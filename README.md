@@ -8,7 +8,7 @@ Chill algo study
 |   20   |                          [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                          |    Easy    |    Stack     | [#11](/../../issues/11) |
 |   36   |                               [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                               |   Medium   |    Arrays    | [#35](/../../issues/35) |
 |   49   |                             [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             |   Medium   |    Arrays    | [#27](/../../issues/27) |
-|  128   |               [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)               |   Medium   |    Arrays    | [#27](/../../issues/27) |
+|  128   |               [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)               |   Medium   |    Arrays    | [#38](/../../issues/38) |
 |  175   |                         [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                         |    Easy    |   Database   |  [#3](/../../issues/3)  |
 |  176   |                      [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                      |    Easy    |   Database   |  [#4](/../../issues/4)  |
 |  177   |                         [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)                         |   Medium   |   Database   |  [#5](/../../issues/5)  |
