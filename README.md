@@ -5,7 +5,7 @@ Chill algo study
 |:------:|:-----------------------------------------------------------------------------------------------------------------------:|:----------:|:------------:|:-----------------------:|
 |   1    |                                    [Two Sum](https://leetcode.com/problems/two-sum/)                                    |    Easy    |    Arrays    | [#25](/../../issues/25) |
 |   11   |                  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                  |   Medium   |    Arrays    | [#10](/../../issues/10) |
-|   20   |                          [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                          |    Easy    |    Stack     | [#11](/../../issues/14) |
+|   20   |                          [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                          |    Easy    |    Stack     | [#14](/../../issues/14) |
 |   36   |                               [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                               |   Medium   |    Arrays    | [#35](/../../issues/35) |
 |   49   |                             [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             |   Medium   |    Arrays    | [#27](/../../issues/27) |
 |  128   |               [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)               |   Medium   |    Arrays    | [#38](/../../issues/38) |
