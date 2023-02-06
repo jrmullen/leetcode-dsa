@@ -9,6 +9,7 @@ Chill algo study
 |   36   |                               [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                               |   Medium   |    Arrays    | [#35](/../../issues/35) |
 |   49   |                             [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             |   Medium   |    Arrays    | [#27](/../../issues/27) |
 |  128   |               [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)               |   Medium   |    Arrays    | [#38](/../../issues/38) |
+|  150   |           [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)           |   Medium   |    Stack     | [#44](/../../issues/44) |
 |  155   |                                  [Min Stack](https://leetcode.com/problems/min-stack/)                                  |   Medium   |    Stack     | [#42](/../../issues/42) |
 |  175   |                         [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                         |    Easy    |   Database   |  [#3](/../../issues/3)  |
 |  176   |                      [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                      |    Easy    |   Database   |  [#4](/../../issues/4)  |
