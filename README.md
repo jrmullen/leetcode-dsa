@@ -24,5 +24,6 @@ Chill algo study
 |  238   |               [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)               |   Medium   |    Arrays    | [#32](/../../issues/32) |
 |  242   |                              [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                              |    Easy    |    Arrays    | [#23](/../../issues/23) |
 |  347   |                    [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                    |   Medium   |    Arrays    | [#30](/../../issues/30) |
+|  739   |                         [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                         |   Medium   |    Stack     | [#46](/../../issues/46) |
 |  784   |                    [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                    |   Medium   | Backtracking |  [#1](/../../issues/1)  |
 |  797   |            [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)            |   Medium   |    Graphs    |  [#2](/../../issues/2)  |
