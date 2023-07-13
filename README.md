@@ -8,6 +8,7 @@ Chill algo study
 |   20   |                          [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                          |    Easy    |    Stack     | [#14](/../../issues/14) |
 |   36   |                               [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                               |   Medium   |    Arrays    | [#35](/../../issues/35) |
 |   49   |                             [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             |   Medium   |    Arrays    | [#27](/../../issues/27) |
+|  125   |                           [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                           |    Easy    | Two Pointers | [#38](/../../issues/50) |
 |  128   |               [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)               |   Medium   |    Arrays    | [#38](/../../issues/38) |
 |  150   |           [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)           |   Medium   |    Stack     | [#44](/../../issues/44) |
 |  155   |                                  [Min Stack](https://leetcode.com/problems/min-stack/)                                  |   Medium   |    Stack     | [#42](/../../issues/42) |
