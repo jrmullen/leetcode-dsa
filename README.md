@@ -5,6 +5,7 @@ Chill algo study
 |:------:|:-----------------------------------------------------------------------------------------------------------------------:|:----------:|:------------:|:-----------------------:|
 |   1    |                                    [Two Sum](https://leetcode.com/problems/two-sum/)                                    |    Easy    |    Arrays    | [#25](/../../issues/25) |
 |   11   |                  [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                  |   Medium   | Two Pointers | [#10](/../../issues/10) |
+|   15   |                                       [3Sum](https://leetcode.com/problems/3sum/)                                       |   Medium   | Two Pointers | [#10](/../../issues/55) |
 |   20   |                          [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                          |    Easy    |    Stack     | [#14](/../../issues/14) |
 |   36   |                               [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                               |   Medium   |    Arrays    | [#35](/../../issues/35) |
 |   49   |                             [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                             |   Medium   |    Arrays    | [#27](/../../issues/27) |
