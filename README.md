@@ -12,6 +12,7 @@ Chill algo study
 |  128   |               [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)               |   Medium   |    Arrays    | [#38](/../../issues/38) |
 |  150   |           [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)           |   Medium   |    Stack     | [#44](/../../issues/44) |
 |  155   |                                  [Min Stack](https://leetcode.com/problems/min-stack/)                                  |   Medium   |    Stack     | [#42](/../../issues/42) |
+|  167   |    [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)    |   Medium   | Two Pointers | [#53](/../../issues/53) |
 |  175   |                         [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                         |    Easy    |   Database   |  [#3](/../../issues/3)  |
 |  176   |                      [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                      |    Easy    |   Database   |  [#4](/../../issues/4)  |
 |  177   |                         [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)                         |   Medium   |   Database   |  [#5](/../../issues/5)  |
