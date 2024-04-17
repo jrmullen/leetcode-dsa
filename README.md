@@ -5,12 +5,12 @@ Chill algo study
 |:------:|:-------------------------------------------------------------------------------------------------------------------------------:|:----------:|:-------------:|:-----------------------:|
 |   1    |                                        [Two Sum](https://leetcode.com/problems/two-sum/)                                        |    Easy    |    Arrays     | [#25](/../../issues/25) |
 |   11   |                      [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                      |   Medium   | Two Pointers  | [#10](/../../issues/10) |
-|   15   |                                           [3Sum](https://leetcode.com/problems/3sum/)                                           |   Medium   | Two Pointers  | [#10](/../../issues/55) |
+|   15   |                                           [3Sum](https://leetcode.com/problems/3sum/)                                           |   Medium   | Two Pointers  | [#55](/../../issues/55) |
 |   20   |                              [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              |    Easy    |     Stack     | [#14](/../../issues/14) |
 |   36   |                                   [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   |   Medium   |    Arrays     | [#35](/../../issues/35) |
 |   49   |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 |   Medium   |    Arrays     | [#27](/../../issues/27) |
 |   74   |                             [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                             |   Medium   | Binary Search | [#59](/../../issues/59) |
-|  125   |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |    Easy    | Two Pointers  | [#38](/../../issues/50) |
+|  125   |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |    Easy    | Two Pointers  | [#50](/../../issues/50) |
 |  128   |                   [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                   |   Medium   |    Arrays     | [#38](/../../issues/38) |
 |  150   |               [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)               |   Medium   |     Stack     | [#44](/../../issues/44) |
 |  155   |                                      [Min Stack](https://leetcode.com/problems/min-stack/)                                      |   Medium   |     Stack     | [#42](/../../issues/42) |
@@ -24,7 +24,7 @@ Chill algo study
 |  193   |                            [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)                            |    Easy    |     Shell     | [#19](/../../issues/19) |
 |  195   |                                     [Tenth Line](https://leetcode.com/problems/tenth-line/)                                     |    Easy    |     Shell     | [#15](/../../issues/15) |
 |  197   |                             [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                             |    Easy    |   Database    |  [#9](/../../issues/9)  |
-|  217   |                             [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                             |    Easy    |    Arrays     | [#20](/../../issues/21) |
+|  217   |                             [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                             |    Easy    |    Arrays     | [#21](/../../issues/21) |
 |  238   |                   [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                   |   Medium   |    Arrays     | [#32](/../../issues/32) |
 |  242   |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |    Easy    |    Arrays     | [#23](/../../issues/23) |
 |  347   |                        [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                        |   Medium   |    Arrays     | [#30](/../../issues/30) |
