@@ -33,3 +33,4 @@ Chill algo study
 |  784   |                        [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                        |   Medium   | Backtracking  |  [#1](/../../issues/1)  |
 |  797   |                [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                |   Medium   |    Graphs     |  [#2](/../../issues/2)  |
 |  853   |                           [All Paths From Source to Target](https://leetcode.com/problems/car-fleet/)                           |   Medium   |     Stack     | [#48](/../../issues/48) |
+|  875   |                           [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                           |   Medium   |     Binary Search     | [#65](/../../issues/65) |
