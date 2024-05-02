@@ -7,6 +7,7 @@ Chill algo study
 |   11   |                      [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                      |   Medium   | Two Pointers  | [#10](/../../issues/10) |
 |   15   |                                           [3Sum](https://leetcode.com/problems/3sum/)                                           |   Medium   | Two Pointers  | [#55](/../../issues/55) |
 |   20   |                              [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                              |    Easy    |     Stack     | [#14](/../../issues/14) |
+|   33   |                              [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                              |    Medium    |     Binary Search     | [#68](/../../issues/68) |
 |   36   |                                   [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   |   Medium   |    Arrays     | [#35](/../../issues/35) |
 |   49   |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 |   Medium   |    Arrays     | [#27](/../../issues/27) |
 |   74   |                             [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                             |   Medium   | Binary Search | [#59](/../../issues/59) |
