@@ -13,6 +13,7 @@ Chill algo study
 |  125   |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |    Easy    | Two Pointers  | [#50](/../../issues/50) |
 |  128   |                   [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                   |   Medium   |    Arrays     | [#38](/../../issues/38) |
 |  150   |               [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)               |   Medium   |     Stack     | [#44](/../../issues/44) |
+|  153   |               [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)               |   Medium   |     Binary Search     | [#66](/../../issues/66) |
 |  155   |                                      [Min Stack](https://leetcode.com/problems/min-stack/)                                      |   Medium   |     Stack     | [#42](/../../issues/42) |
 |  167   |        [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)        |   Medium   | Two Pointers  | [#53](/../../issues/53) |
 |  175   |                             [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                             |    Easy    |   Database    |  [#3](/../../issues/3)  |
