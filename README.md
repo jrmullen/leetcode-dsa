@@ -32,7 +32,6 @@ Chill algo study
 |  238   |                   [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                   |   Medium   |     Arrays     | [#32](/../../issues/32) |
 |  242   |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |    Easy    |     Arrays     | [#23](/../../issues/23) |
 |  347   |                        [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                        |   Medium   |     Arrays     | [#30](/../../issues/30) |
-(/../../issues/23) |
 |  424   |                        [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                        |   Medium   |     Sliding Window     | [#77](/../../issues/77) |
 |  704   |                                  [Binary Search](https://leetcode.com/problems/binary-search/)                                  |    Easy    | Binary Search  | [#57](/../../issues/57) |
 |  739   |                             [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             |   Medium   |     Stack      | [#46](/../../issues/46) |
