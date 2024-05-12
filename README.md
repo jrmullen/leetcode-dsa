@@ -33,6 +33,7 @@ Chill algo study
 |  242   |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |    Easy    |     Arrays     | [#23](/../../issues/23) |
 |  347   |                        [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                        |   Medium   |     Arrays     | [#30](/../../issues/30) |
 |  424   |                        [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                        |   Medium   |     Sliding Window     | [#77](/../../issues/77) |
+|  567   |                        [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                        |   Medium   |     Sliding Window     | [#78](/../../issues/78) |
 |  704   |                                  [Binary Search](https://leetcode.com/problems/binary-search/)                                  |    Easy    | Binary Search  | [#57](/../../issues/57) |
 |  739   |                             [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             |   Medium   |     Stack      | [#46](/../../issues/46) |
 |  784   |                        [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                        |   Medium   |  Backtracking  |  [#1](/../../issues/1)  |
