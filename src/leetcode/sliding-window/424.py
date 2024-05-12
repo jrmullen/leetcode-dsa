@@ -7,6 +7,8 @@ class Solution:
         for r in range(len(s)):
             frequencies[s[r]] = 1 + frequencies.get(s[r], 0)
 
+            # If the window size - count of most frequent characters > k
+            # it is not a valid string, so we must shift the left point until it is valid again
             while (r - l + 1) - max(frequencies.values()) > k:
                 frequencies[s[l]] -= 1
                 l += 1
