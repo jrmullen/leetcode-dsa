@@ -16,6 +16,7 @@ Chill algo study
 |  121   |                [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                |    Easy    | Sliding Window | [#72](/../../issues/72) |
 |  125   |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |    Easy    |  Two Pointers  | [#50](/../../issues/50) |
 |  128   |                   [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                   |   Medium   |     Arrays     | [#38](/../../issues/38) |
+|  143   |                                   [Reorder List](https://leetcode.com/problems/reorder-list/)                                   |   Medium   |  Linked List   | [#84](/../../issues/84) |
 |  150   |               [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)               |   Medium   |     Stack      | [#44](/../../issues/44) |
 |  153   |           [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)           |   Medium   | Binary Search  | [#66](/../../issues/66) |
 |  155   |                                      [Min Stack](https://leetcode.com/problems/min-stack/)                                      |   Medium   |     Stack      | [#42](/../../issues/42) |
