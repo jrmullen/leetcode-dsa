@@ -3,8 +3,8 @@ Chill algo study
 
 | Number |                                                             Problem                                                             | Difficulty |     Topic      |        Solution         |
 |:------:|:-------------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------------:|:-----------------------:|
-|   1    |                                [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                |   Medium   |  Linked List   | [#90](/../../issues/90) |
-|   2    |                                        [Two Sum](https://leetcode.com/problems/two-sum/)                                        |    Easy    |     Arrays     | [#25](/../../issues/25) |
+|   1    |                                        [Two Sum](https://leetcode.com/problems/two-sum/)                                        |    Easy    |     Arrays     | [#25](/../../issues/25) |
+|   2    |                                [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                |   Medium   |  Linked List   | [#90](/../../issues/90) |
 |   3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |   Medium   | Sliding Window | [#74](/../../issues/74) |
 |   11   |                      [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                      |   Medium   |  Two Pointers  | [#10](/../../issues/10) |
 |   15   |                                           [3Sum](https://leetcode.com/problems/3sum/)                                           |   Medium   |  Two Pointers  | [#55](/../../issues/55) |
