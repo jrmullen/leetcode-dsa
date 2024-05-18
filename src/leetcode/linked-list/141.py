@@ -9,12 +9,14 @@ class Solution:
         slow = head
         fast = head
 
+        # Progress the fast pointer twice as fast
         while fast:
             fast = fast.next
             if fast:
                 slow = slow.next
                 fast = fast.next
 
+            # If the pointers ever cross there is a cycle in the list
             if slow == fast:
                 return True
         return False
