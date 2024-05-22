@@ -15,6 +15,7 @@ Chill algo study
 |   36   |                                   [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   |   Medium   |     Arrays     | [#35](/../../issues/35) |
 |   49   |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 |   Medium   |     Arrays     | [#27](/../../issues/27) |
 |   74   |                             [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                             |   Medium   | Binary Search  | [#59](/../../issues/59) |
+|  104   |                [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                |    Easy    | Trees | [#99](/../../issues/99) |
 |  121   |                [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                |    Easy    | Sliding Window | [#72](/../../issues/72) |
 |  125   |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |    Easy    |  Two Pointers  | [#50](/../../issues/50) |
 |  128   |                   [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                   |   Medium   |     Arrays     | [#38](/../../issues/38) |
