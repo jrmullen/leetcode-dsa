@@ -36,6 +36,7 @@ Chill algo study
 |  197   |                             [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                             |    Easy    |    Database    |  [#9](/../../issues/9)  |
 |  206   |                            [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                            |    Easy    |  Linked List   | [#80](/../../issues/80) |
 |  217   |                             [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                             |    Easy    |     Arrays     | [#21](/../../issues/21) |
+|  226   |                             [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                             |    Easy    |     Trees     | [#97](/../../issues/97) |
 |  238   |                   [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                   |   Medium   |     Arrays     | [#32](/../../issues/32) |
 |  242   |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |    Easy    |     Arrays     | [#23](/../../issues/23) |
 |  287   |                                  [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                  |    Medium    |     Linked List     | [#95](/../../issues/95) |
