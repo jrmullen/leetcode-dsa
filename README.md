@@ -23,6 +23,7 @@ Chill algo study
 |  138   |                  [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                  |   Medium   |  Linked List   |  [#88](/../../issues/88)  |
 |  141   |                              [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                              |   Medium   |  Linked List   |  [#93](/../../issues/93)  |
 |  143   |                                   [Reorder List](https://leetcode.com/problems/reorder-list/)                                   |   Medium   |  Linked List   |  [#84](/../../issues/84)  |
+|  146   |                                      [LRU Cache](https://leetcode.com/problems/lru-cache/)                                      |   Medium   |  Linked List   | [#103](/../../issues/103) |
 |  150   |               [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)               |   Medium   |     Stack      |  [#44](/../../issues/44)  |
 |  153   |           [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)           |   Medium   | Binary Search  |  [#66](/../../issues/66)  |
 |  155   |                                      [Min Stack](https://leetcode.com/problems/min-stack/)                                      |   Medium   |     Stack      |  [#42](/../../issues/42)  |
