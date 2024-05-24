@@ -1,5 +1,4 @@
-# algo-study
-Chill algo study
+# Personal Data Structures & Algorithms Study Progression
 
 | Number |                                                             Problem                                                             | Difficulty |     Topic      |         Solution          |
 |:------:|:-------------------------------------------------------------------------------------------------------------------------------:|:----------:|:--------------:|:-------------------------:|
