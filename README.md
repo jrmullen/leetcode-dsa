@@ -15,6 +15,7 @@
 |   49   |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 |   Medium   |     Arrays     |  [#27](/../../issues/27)  |
 |   74   |                             [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                             |   Medium   | Binary Search  |  [#59](/../../issues/59)  |
 |  104   |                   [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                   |    Easy    |     Trees      |  [#99](/../../issues/99)  |
+|  110   |                           [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                           |    Easy    |     Trees      | [#108](/../../issues/108) |
 |  111   |                   [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                   |    Easy    |     Trees      | [#101](/../../issues/101) |
 |  121   |                [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                |    Easy    | Sliding Window |  [#72](/../../issues/72)  |
 |  125   |                               [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                               |    Easy    |  Two Pointers  |  [#50](/../../issues/50)  |
@@ -44,7 +45,7 @@
 |  287   |                      [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                      |   Medium   |  Linked List   |  [#95](/../../issues/95)  |
 |  347   |                        [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                        |   Medium   |     Arrays     |  [#30](/../../issues/30)  |
 |  424   |        [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)        |   Medium   | Sliding Window |  [#77](/../../issues/77)  |
-|  543   |                          [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                          |   Easy   | Trees |  [#105](/../../issues/105)  |
+|  543   |                        [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                        |    Easy    |     Trees      | [#105](/../../issues/105) |
 |  567   |                          [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                          |   Medium   | Sliding Window |  [#78](/../../issues/78)  |
 |  704   |                                  [Binary Search](https://leetcode.com/problems/binary-search/)                                  |    Easy    | Binary Search  |  [#57](/../../issues/57)  |
 |  739   |                             [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             |   Medium   |     Stack      |  [#46](/../../issues/46)  |
