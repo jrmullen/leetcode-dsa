@@ -14,8 +14,9 @@
 |   36   |                                   [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                   |   Medium   |     Arrays     |  [#35](/../../issues/35)  |
 |   49   |                                 [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                 |   Medium   |     Arrays     |  [#27](/../../issues/27)  |
 |   74   |                             [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                             |   Medium   | Binary Search  |  [#59](/../../issues/59)  |
+|   98   |                    [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                    |   Medium   |     Trees      | [#122](/../../issues/122) |
 |  100   |                                      [Same Tree](https://leetcode.com/problems/same-tree/)                                      |    Easy    |     Trees      | [#110](/../../issues/110) |
-|  102   |               [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)             |    Medium    |     Trees      | [#116](/../../issues/116) |
+|  102   |              [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)              |   Medium   |     Trees      | [#116](/../../issues/116) |
 |  104   |                   [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                   |    Easy    |     Trees      |  [#99](/../../issues/99)  |
 |  110   |                           [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                           |    Easy    |     Trees      | [#108](/../../issues/108) |
 |  111   |                   [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                   |    Easy    |     Trees      | [#101](/../../issues/101) |
@@ -39,11 +40,11 @@
 |  193   |                            [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)                            |    Easy    |     Shell      |  [#19](/../../issues/19)  |
 |  195   |                                     [Tenth Line](https://leetcode.com/problems/tenth-line/)                                     |    Easy    |     Shell      |  [#15](/../../issues/15)  |
 |  197   |                             [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                             |    Easy    |    Database    |   [#9](/../../issues/9)   |
-|  199   |                             [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                             |    Medium    |    Trees    |   [#118](/../../issues/118)   |
+|  199   |                    [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                    |   Medium   |     Trees      | [#118](/../../issues/118) |
 |  206   |                            [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                            |    Easy    |  Linked List   |  [#80](/../../issues/80)  |
 |  217   |                             [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                             |    Easy    |     Arrays     |  [#21](/../../issues/21)  |
 |  226   |                             [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                             |    Easy    |     Trees      |  [#97](/../../issues/97)  |
-|  235   |                   [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)                  |   Medium   |     Trees     |  [#114](/../../issues/114)  |
+|  235   | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |   Medium   |     Trees      | [#114](/../../issues/114) |
 |  238   |                   [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                   |   Medium   |     Arrays     |  [#32](/../../issues/32)  |
 |  242   |                                  [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                  |    Easy    |     Arrays     |  [#23](/../../issues/23)  |
 |  287   |                      [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                      |   Medium   |  Linked List   |  [#95](/../../issues/95)  |
@@ -59,4 +60,4 @@
 |  853   |                           [All Paths From Source to Target](https://leetcode.com/problems/car-fleet/)                           |   Medium   |     Stack      |  [#48](/../../issues/48)  |
 |  875   |                            [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                            |   Medium   | Binary Search  |  [#65](/../../issues/65)  |
 |  981   |                     [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                     |   Medium   | Binary Search  |  [#70](/../../issues/70)  |
-|  1448   |                     [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)          |   Medium   | Trees  |  [#120](/../../issues/120)  |
+|  1448  |                [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                |   Medium   |     Trees      | [#120](/../../issues/120) |
