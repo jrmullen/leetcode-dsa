@@ -10,6 +10,7 @@
 |   19   |                          [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                          |   Medium   |  Linked List   |  [#86](/../../issues/86)  |
 |   20   |                                         [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                         |    Easy    |     Stack      |  [#14](/../../issues/14)  |
 |   21   |                                    [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                    |    Easy    |  Linked List   |  [#82](/../../issues/82)  |
+|   22   |                                    [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                    |    Medium    |  Backtracking   |  [#136](/../../issues/136)  |
 |   33   |                            [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                            |   Medium   | Binary Search  |  [#68](/../../issues/68)  |
 |   36   |                                              [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                              |   Medium   |     Arrays     |  [#35](/../../issues/35)  |
 |   39   |                                           [Combination Sum](https://leetcode.com/problems/combination-sum/)                                           |   Medium   |  Backtracking  | [#134](/../../issues/134) |
