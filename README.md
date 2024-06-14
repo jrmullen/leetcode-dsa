@@ -14,6 +14,7 @@
 |   33   |                            [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                            |   Medium   | Binary Search  |  [#68](/../../issues/68)  |
 |   36   |                                              [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                              |   Medium   |     Arrays     |  [#35](/../../issues/35)  |
 |   39   |                                           [Combination Sum](https://leetcode.com/problems/combination-sum/)                                           |   Medium   |  Backtracking  | [#134](/../../issues/134) |
+|   46   |                                            [Permutations](https://leetcode.com/problems/permutations/)                                            |   Medium   |     Backtracking   |  [#138](/../../issues/138)  |
 |   49   |                                            [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                            |   Medium   |     Arrays     |  [#27](/../../issues/27)  |
 |   74   |                                        [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                        |   Medium   | Binary Search  |  [#59](/../../issues/59)  |
 |   78   |                                                   [Subsets](https://leetcode.com/problems/subsets/)                                                   |   Medium   |  Backtracking  | [#132](/../../issues/132) |
