@@ -19,6 +19,7 @@
 |   49   |                                            [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                            |   Medium   |     Arrays     |  [#27](/../../issues/27)  |
 |   74   |                                        [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                        |   Medium   | Binary Search  |  [#59](/../../issues/59)  |
 |   78   |                                                   [Subsets](https://leetcode.com/problems/subsets/)                                                   |   Medium   |  Backtracking  | [#132](/../../issues/132) |
+|   79   |                                               [Word Search](https://leetcode.com/problems/word-search/)                                               |   Medium   |  Backtracking  | [#144](/../../issues/144) |
 |   90   |                                                [Subsets II](https://leetcode.com/problems/subsets-ii/)                                                |   Medium   |  Backtracking  | [#140](/../../issues/140) |
 |   98   |                               [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                               |   Medium   |     Trees      | [#122](/../../issues/122) |
 |  100   |                                                 [Same Tree](https://leetcode.com/problems/same-tree/)                                                 |    Easy    |     Trees      | [#110](/../../issues/110) |
