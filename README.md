@@ -31,6 +31,7 @@
 |  121   |                           [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                           |    Easy    | Sliding Window |  [#72](/../../issues/72)  |
 |  125   |                                          [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                          |    Easy    |  Two Pointers  |  [#50](/../../issues/50)  |
 |  128   |                              [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                              |   Medium   |     Arrays     |  [#38](/../../issues/38)  |
+|  131   |                                   [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                   |   Medium   |  Backtracking  | [#146](/../../issues/146) |
 |  138   |                             [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                             |   Medium   |  Linked List   |  [#88](/../../issues/88)  |
 |  141   |                                         [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                         |   Medium   |  Linked List   |  [#93](/../../issues/93)  |
 |  143   |                                              [Reorder List](https://leetcode.com/problems/reorder-list/)                                              |   Medium   |  Linked List   |  [#84](/../../issues/84)  |
