@@ -67,6 +67,7 @@
 |  543   |                                   [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                   |    Easy    |     Trees      | [#105](/../../issues/105) |
 |  567   |                                     [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                     |   Medium   | Sliding Window |  [#78](/../../issues/78)  |
 |  572   |                                   [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                   |    Easy    |     Trees      | [#112](/../../issues/112) |
+|  695   |                                        [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                        |   Medium   |     Graphs     | [#152](/../../issues/152) |
 |  704   |                                             [Binary Search](https://leetcode.com/problems/binary-search/)                                             |    Easy    | Binary Search  |  [#57](/../../issues/57)  |
 |  739   |                                        [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                        |   Medium   |     Stack      |  [#46](/../../issues/46)  |
 |  784   |                                   [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                   |   Medium   |  Backtracking  |   [#1](/../../issues/1)   |
