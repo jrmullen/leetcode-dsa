@@ -7,6 +7,7 @@
 |   3    |            [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)            |   Medium   | Sliding Window |  [#74](/../../issues/74)  |
 |   11   |                                 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                 |   Medium   |  Two Pointers  |  [#10](/../../issues/10)  |
 |   15   |                                                      [3Sum](https://leetcode.com/problems/3sum/)                                                      |   Medium   |  Two Pointers  |  [#55](/../../issues/55)  |
+|   17   |                     [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                     |   Medium   |  Backtracking  | [#148](/../../issues/148) |
 |   19   |                          [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                          |   Medium   |  Linked List   |  [#86](/../../issues/86)  |
 |   20   |                                         [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                         |    Easy    |     Stack      |  [#14](/../../issues/14)  |
 |   21   |                                    [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                    |    Easy    |  Linked List   |  [#82](/../../issues/82)  |
