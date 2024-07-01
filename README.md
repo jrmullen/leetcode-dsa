@@ -51,7 +51,7 @@
 |  195   |                                                [Tenth Line](https://leetcode.com/problems/tenth-line/)                                                |    Easy    |     Shell      |  [#15](/../../issues/15)  |
 |  197   |                                        [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                        |    Easy    |    Database    |   [#9](/../../issues/9)   |
 |  199   |                               [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                               |   Medium   |     Trees      | [#118](/../../issues/118) |
-|  200   |                                         [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                         |   Medium   |  Backtracking  | [#150](/../../issues/150) |
+|  200   |                                         [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                         |   Medium   |     Graphs     | [#150](/../../issues/150) |
 |  206   |                                       [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                       |    Easy    |  Linked List   |  [#80](/../../issues/80)  |
 |  208   |                               [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                               |   Medium   |     Tries      | [#128](/../../issues/128) |
 |  211   |               [Design Add and Search Words Data Structure)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                |   Medium   |     Tries      | [#130](/../../issues/130) |
