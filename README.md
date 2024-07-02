@@ -63,6 +63,7 @@
 |  238   |                              [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                              |   Medium   |     Arrays     |  [#32](/../../issues/32)  |
 |  242   |                                             [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                             |    Easy    |     Arrays     |  [#23](/../../issues/23)  |
 |  271   |                           [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)                           |   Medium   |     Arrays     |  [#61](/../../issues/61)  |
+|  286   |                                           [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)                                           |   Medium   |     Graphs     | [#161](/../../issues/161) |
 |  287   |                                 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 |   Medium   |  Linked List   |  [#95](/../../issues/95)  |
 |  347   |                                   [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                   |   Medium   |     Arrays     |  [#30](/../../issues/30)  |
 |  417   |                               [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                               |   Medium   |     Graphs     | [#158](/../../issues/158) |
