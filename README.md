@@ -56,6 +56,7 @@
 |  206   |                                       [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                       |    Easy    |  Linked List   |  [#80](/../../issues/80)  |
 |  207   |                               [Course Schedule](https://leetcode.com/problems/course-schedule/)                               |   Medium   |     Graphs      | [#163](/../../issues/163) |
 |  208   |                               [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                               |   Medium   |     Tries      | [#128](/../../issues/128) |
+|  210   |                               [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                               |   Medium   |     Graphs      | [#165](/../../issues/165) |
 |  211   |               [Design Add and Search Words Data Structure)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                |   Medium   |     Tries      | [#130](/../../issues/130) |
 |  217   |                                        [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                        |    Easy    |     Arrays     |  [#21](/../../issues/21)  |
 |  226   |                                        [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                        |    Easy    |     Trees      |  [#97](/../../issues/97)  |
