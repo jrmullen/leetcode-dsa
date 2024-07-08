@@ -9,7 +9,7 @@ class Solution:
             nodeMap[b].append(a)
         
         def dfs(node, previousNode):
-            # Base case - a node previously visited node is encountered. There is a cycle in the graph, & therefore not a tree
+            # Base case - a previously visited node is encountered. There is a cycle in the graph. It is not a tree
             if node in visited:
                 return False
             
@@ -25,7 +25,7 @@ class Solution:
 
             return True
         
-        # Start at node 0 with a dummy `previousNode` value
+        # Start at the root node 0 with a dummy `previousNode` value
         result = dfs(0, -1) # If a cycle is detected `dfs()` will return `False` - it is not a tree
-        allNodesVisited = len(visited) == n # If all nodes were not reachable from the root node, it is not a tree
+        allNodesVisited = len(visited) == n # If all nodes were not visited from the root node, it is not a tree
         return result and allNodesVisited
