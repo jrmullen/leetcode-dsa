@@ -86,4 +86,5 @@
 |  875   |                                       [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                       |   Medium   | Binary Search  |  [#65](/../../issues/65)  |
 |  981   |                                [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                |   Medium   | Binary Search  |  [#70](/../../issues/70)  |
 |  994   |                                           [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                           |   Medium   |     Graphs     | [#156](/../../issues/156) |
+|  1046  |                           [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                           |   Easy   |     Heap / Priority Queue      | [#175](/../../issues/175) |
 |  1448  |                           [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                           |   Medium   |     Trees      | [#120](/../../issues/120) |
