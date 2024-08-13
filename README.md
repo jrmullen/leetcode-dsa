@@ -71,6 +71,7 @@
 |  287   |                                 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 |   Medium   |  Linked List   |  [#95](/../../issues/95)  |
 |  323   |       [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)     |   Medium   |     Graphs     |  [#169](/../../issues/169)  |
 |  347   |                                   [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                   |   Medium   |     Arrays     |  [#30](/../../issues/30)  |
+|  355   |                                   [Design Twitter](https://leetcode.com/problems/design-twitter/)                                   |   Medium   |     Heap / Priority Queue     |  [#183](/../../issues/183)  |
 |  417   |                               [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                               |   Medium   |     Graphs     | [#158](/../../issues/158) |
 |  424   |                   [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                   |   Medium   | Sliding Window |  [#77](/../../issues/77)  |
 |  543   |                                   [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                   |    Easy    |     Trees      | [#105](/../../issues/105) |
