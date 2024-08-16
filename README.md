@@ -52,6 +52,7 @@
 |  193   |                                       [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)                                       |    Easy    |     Shell      |  [#19](/../../issues/19)  |
 |  195   |                                                [Tenth Line](https://leetcode.com/problems/tenth-line/)                                                |    Easy    |     Shell      |  [#15](/../../issues/15)  |
 |  197   |                                        [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                        |    Easy    |    Database    |   [#9](/../../issues/9)   |
+|  198   |                                        [House Robber](https://leetcode.com/problems/house-robber/)         |    Medium    |    1-D Dynamic Programming    |   [#189](/../../issues/189)   |
 |  199   |                               [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                               |   Medium   |     Trees      | [#118](/../../issues/118) |
 |  200   |                                         [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                         |   Medium   |     Graphs     | [#150](/../../issues/150) |
 |  206   |                                       [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                       |    Easy    |  Linked List   |  [#80](/../../issues/80)  |
