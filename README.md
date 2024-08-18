@@ -5,6 +5,7 @@
 |   1    |                                                   [Two Sum](https://leetcode.com/problems/two-sum/)                                                   |    Easy    |     Arrays     |  [#25](/../../issues/25)  |
 |   2    |                                           [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                           |   Medium   |  Linked List   |  [#90](/../../issues/90)  |
 |   3    |            [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)            |   Medium   | Sliding Window |  [#74](/../../issues/74)  |
+|   5    |            [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)            |   Medium   | 1-D Dynamic Programming |  [#193](/../../issues/193)  |
 |   11   |                                 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                 |   Medium   |  Two Pointers  |  [#10](/../../issues/10)  |
 |   15   |                                                      [3Sum](https://leetcode.com/problems/3sum/)                                                      |   Medium   |  Two Pointers  |  [#55](/../../issues/55)  |
 |   17   |                     [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                     |   Medium   |  Backtracking  | [#148](/../../issues/148) |
