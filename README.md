@@ -24,6 +24,7 @@
 |   78   |                                                   [Subsets](https://leetcode.com/problems/subsets/)                                                   |   Medium   |  Backtracking  | [#132](/../../issues/132) |
 |   79   |                                               [Word Search](https://leetcode.com/problems/word-search/)                                               |   Medium   |  Backtracking  | [#144](/../../issues/144) |
 |   90   |                                                [Subsets II](https://leetcode.com/problems/subsets-ii/)                                                |   Medium   |  Backtracking  | [#140](/../../issues/140) |
+|   91   |                                                [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                |   Medium   |  1-D Dynamic Programming  | [#199](/../../issues/199) |
 |   98   |                               [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                               |   Medium   |     Trees      | [#122](/../../issues/122) |
 |  100   |                                                 [Same Tree](https://leetcode.com/problems/same-tree/)                                                 |    Easy    |     Trees      | [#110](/../../issues/110) |
 |  102   |                         [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                         |   Medium   |     Trees      | [#116](/../../issues/116) |
