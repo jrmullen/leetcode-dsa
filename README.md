@@ -74,6 +74,7 @@
 |  271   |                           [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)                           |   Medium   |     Arrays     |  [#61](/../../issues/61)  |
 |  286   |                                           [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)                                           |   Medium   |     Graphs     | [#161](/../../issues/161) |
 |  287   |                                 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 |   Medium   |  Linked List   |  [#95](/../../issues/95)  |
+|  322   |       [Coin Change](https://leetcode.com/problems/coin-change/)     |   Medium   |     1-D Dynamic Programming     |  [#201](/../../issues/201)  |
 |  323   |       [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)     |   Medium   |     Graphs     |  [#169](/../../issues/169)  |
 |  347   |                                   [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                   |   Medium   |     Arrays     |  [#30](/../../issues/30)  |
 |  355   |                                   [Design Twitter](https://leetcode.com/problems/design-twitter/)                                   |   Medium   |     Heap / Priority Queue     |  [#183](/../../issues/183)  |
