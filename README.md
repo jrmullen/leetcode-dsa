@@ -38,6 +38,7 @@
 |  131   |                                   [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)                                   |   Medium   |  Backtracking  | [#146](/../../issues/146) |
 |  133   |                                               [Clone Graph](https://leetcode.com/problems/clone-graph/)                                               |   Medium   |     Graphs     | [#154](/../../issues/154) |
 |  138   |                             [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                             |   Medium   |  Linked List   |  [#88](/../../issues/88)  |
+|  139   |                             [Word Break](https://leetcode.com/problems/word-break/)                             |   Medium   |  1-D Dynamic Programming   |  [#205](/../../issues/205)  |
 |  141   |                                         [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                         |   Medium   |  Linked List   |  [#93](/../../issues/93)  |
 |  143   |                                              [Reorder List](https://leetcode.com/problems/reorder-list/)                                              |   Medium   |  Linked List   |  [#84](/../../issues/84)  |
 |  146   |                                                 [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                 |   Medium   |  Linked List   | [#103](/../../issues/103) |
