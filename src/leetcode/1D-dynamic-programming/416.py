@@ -1,6 +1,6 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        # Top-down approach: starting at the end of the `nums` list and working backwords
+        # Top-down approach: starting at the end of the `nums` list and working backwords,
         # compile a list of sums from each possible combination. If there exists a sum that
         # is equal to half of the sum of the `nums` list, it can be equally partitioned
         
@@ -22,7 +22,7 @@ class Solution:
             # Temporary set to work with while iterating over `dp`
             subset = set()
             for d in dp:
-                # If the target is found, `nums` ccn be equyally partitioned
+                # If the target is found, `nums` can be equally partitioned
                 if n + d == target:
                     return True
                 subset.add(n + d) # Add the sum to the temporary working set
