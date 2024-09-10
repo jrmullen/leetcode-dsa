@@ -106,4 +106,5 @@
 |  994   |                                           [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                           |   Medium   |     Graphs     | [#156](/../../issues/156) |
 |  1046  |                           [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                           |   Easy   |     Heap / Priority Queue      | [#175](/../../issues/175) |
 |  1448  |                           [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                           |   Medium   |     Trees      | [#120](/../../issues/120) |
+|  2326  |                 [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)            |   Medium   |     Linked List      | [#215](/../../issues/215) |
 |  3217  |                 [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)            |   Medium   |     Linked List      | [#211](/../../issues/211) |
