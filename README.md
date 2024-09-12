@@ -106,6 +106,7 @@
 |  994   |                                           [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                           |   Medium   |     Graphs     | [#156](/../../issues/156) |
 |  1046  |                           [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                           |   Easy   |     Heap / Priority Queue      | [#175](/../../issues/175) |
 |  1448  |                           [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                           |   Medium   |     Trees      | [#120](/../../issues/120) |
+|  1684  |                           [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)                           |   Easy   |     Arrays      | [#221](/../../issues/221) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
 |  2326  |                 [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)            |   Medium   |     Linked List      | [#215](/../../issues/215) |
 |  2807  |                 [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)            |   Medium   |     Linked List      | [#217](/../../issues/217) |
