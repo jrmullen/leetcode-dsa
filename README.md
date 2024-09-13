@@ -107,6 +107,7 @@
 |  981   |                                [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                |   Medium   | Binary Search  |  [#70](/../../issues/70)  |
 |  994   |                                           [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                           |   Medium   |     Graphs     | [#156](/../../issues/156) |
 |  1046  |                           [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                           |   Easy   |     Heap / Priority Queue      | [#175](/../../issues/175) |
+|  1310  |                           [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)                       |   Medium   |     Bit Manipulation      | [#227](/../../issues/227) |
 |  1448  |                           [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                           |   Medium   |     Trees      | [#120](/../../issues/120) |
 |  1684  |                           [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)                           |   Easy   |     Arrays      | [#221](/../../issues/221) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
