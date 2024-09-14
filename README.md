@@ -55,6 +55,7 @@
 |  181   |                [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)                |    Easy    |    Database    |   [#6](/../../issues/6)   |
 |  182   |                                          [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                          |    Easy    |    Database    |   [#7](/../../issues/7)   |
 |  183   |                                 [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)                                 |    Easy    |    Database    |   [#8](/../../issues/8)   |
+|  190   |                                       [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                       |    Easy    |     Bit Manipulation      |  [#231](/../../issues/231)  |
 |  191   |                                       [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                       |    Easy    |     Bit Manipulation      |  [#225](/../../issues/225)  |
 |  193   |                                       [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)                                       |    Easy    |     Shell      |  [#19](/../../issues/19)  |
 |  195   |                                                [Tenth Line](https://leetcode.com/problems/tenth-line/)                                                |    Easy    |     Shell      |  [#15](/../../issues/15)  |
