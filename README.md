@@ -89,6 +89,7 @@
 |  416   |                               [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                               |   Medium   |     1-D Dynamic Programming     | [#209](/../../issues/209) |
 |  417   |                               [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                               |   Medium   |     Graphs     | [#158](/../../issues/158) |
 |  424   |                   [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                   |   Medium   | Sliding Window |  [#77](/../../issues/77)  |
+|  539   |                                   [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)                                   |    Medium    |     Bit Manipulation      | [#233](/../../issues/233) |
 |  543   |                                   [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                   |    Easy    |     Trees      | [#105](/../../issues/105) |
 |  567   |                                     [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                     |   Medium   | Sliding Window |  [#78](/../../issues/78)  |
 |  572   |                                   [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                   |    Easy    |     Trees      | [#112](/../../issues/112) |
