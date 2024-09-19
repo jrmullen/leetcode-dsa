@@ -75,6 +75,7 @@
 |  230   |                             [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                             |   Medium   |     Trees      | [#126](/../../issues/126) |
 |  235   |            [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)            |   Medium   |     Trees      | [#114](/../../issues/114) |
 |  238   |                              [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                              |   Medium   |     Arrays     |  [#32](/../../issues/32)  |
+|  241   |                                 [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)                                  |    Mediumu    |     Backtracking     |  [#240](/../../issues/240)  |
 |  242   |                                             [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                             |    Easy    |     Arrays     |  [#23](/../../issues/23)  |
 |  261   |                           [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                           |   Medium   |     Graphs     |  [#167](/../../issues/167)  |
 |  271   |                           [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)                           |   Medium   |     Arrays     |  [#61](/../../issues/61)  |
