@@ -68,6 +68,7 @@
 |  208   |                               [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)                               |   Medium   |     Tries      | [#128](/../../issues/128) |
 |  210   |                               [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                               |   Medium   |     Graphs      | [#165](/../../issues/165) |
 |  211   |               [Design Add and Search Words Data Structure)](https://leetcode.com/problems/design-add-and-search-words-data-structure/)                |   Medium   |     Tries      | [#130](/../../issues/130) |
+|  212   |               [Word Search II](https://leetcode.com/problems/word-search-ii/)                |   Hard   |     Tries      | [#255](/../../issues/255) |
 |  213   |                                        [House Robber II](https://leetcode.com/problems/house-robber-ii/)                                        |    Medium    |     1-D Dynamic Programming     |  [#191](/../../issues/191)  |
 |  214   |                                        [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)                                        |    Hard    |Strings     |  [#242](/../../issues/242)  |
 |  215   |                                        [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                        |    Medium    |     Heap / Priority Queue     |  [#179](/../../issues/179)  |
