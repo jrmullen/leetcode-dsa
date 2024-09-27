@@ -28,7 +28,7 @@ class Tree:
                     currentNode.right = TreeNode(start, end)
                     return True
                 currentNode = currentNode.right
-            # If the new booking's `end` time is less than the `start` time of the `currentNode`, traverse right
+            # If the new booking's `end` time is less than the `start` time of the `currentNode`, traverse left
             elif end <= currentNode.start:
                 # If there is no leaf node, insert one for the new booking, else continue traversing the tree
                 if not currentNode.left:
