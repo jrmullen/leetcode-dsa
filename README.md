@@ -120,6 +120,7 @@
 |  1371  |               [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)           |   Medium   |     Bit Manipulation      | [#235](/../../issues/235) |
 |  1448  |                           [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                           |   Medium   |     Trees      | [#120](/../../issues/120) |
 |  1684  |                           [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)                           |   Easy   |     Arrays      | [#221](/../../issues/221) |
+|  1858  |                           [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/)                           |   Medium   |     Tries      | [#259](/../../issues/259) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
 |  2326  |                 [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)            |   Medium   |     Linked List      | [#215](/../../issues/215) |
 |  2416  |                 [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)            |   Hard   |     Tries      | [#253](/../../issues/253) |
