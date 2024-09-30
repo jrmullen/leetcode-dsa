@@ -124,6 +124,7 @@
 |  1381  |               [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)           |   Medium   |     Stack      | [#267](/../../issues/267) |
 |  1448  |                           [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                           |   Medium   |     Trees      | [#120](/../../issues/120) |
 |  1684  |                           [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)                           |   Easy   |     Arrays      | [#221](/../../issues/221) |
+|  1804  |                           [Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/)                           |   Medium   |     Tries      | [#269](/../../issues/269) |
 |  1858  |                           [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/)                           |   Medium   |     Tries      | [#259](/../../issues/259) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
 |  2326  |                 [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)            |   Medium   |     Linked List      | [#215](/../../issues/215) |
