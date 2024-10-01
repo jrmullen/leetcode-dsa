@@ -119,6 +119,7 @@
 |  981   |                                [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                |   Medium   | Binary Search  |  [#70](/../../issues/70)  |
 |  994   |                                           [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                           |   Medium   |     Graphs     | [#156](/../../issues/156) |
 |  1046  |                           [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                           |   Easy   |     Heap / Priority Queue      | [#175](/../../issues/175) |
+|  1133  |                           [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)                           |   Easy   |     Arrays      | [#273](/../../issues/273) |
 |  1310  |                           [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)                       |   Medium   |     Bit Manipulation      | [#227](/../../issues/227) |
 |  1371  |               [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)           |   Medium   |     Bit Manipulation      | [#235](/../../issues/235) |
 |  1381  |               [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)           |   Medium   |     Stack      | [#267](/../../issues/267) |
