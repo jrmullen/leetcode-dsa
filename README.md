@@ -121,6 +121,7 @@
 |  1046  |                           [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                           |   Easy   |     Heap / Priority Queue      | [#175](/../../issues/175) |
 |  1133  |                           [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)                           |   Easy   |     Arrays      | [#273](/../../issues/273) |
 |  1310  |                           [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/)                       |   Medium   |     Bit Manipulation      | [#227](/../../issues/227) |
+|  1331  |                           [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/)                       |   Easy   |     Arrays      | [#275](/../../issues/275) |
 |  1371  |               [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)           |   Medium   |     Bit Manipulation      | [#235](/../../issues/235) |
 |  1381  |               [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)           |   Medium   |     Stack      | [#267](/../../issues/267) |
 |  1448  |                           [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                           |   Medium   |     Trees      | [#120](/../../issues/120) |
