@@ -15,15 +15,18 @@ class Solution:
             return -1
         
         for n in skill:
+            # If the count of `n` is 0 in the `count` map, continue
             if not count[n]:
                 continue
             
+            # If the `target` number to be paired with `n` has a count of 0 in the `count` map, the team cannot be equally split
             target = (total // numPairs) - n
             if not count[target]:
                 return -1
 
+            # Update the `result` and decrement the `count` for the numbers used in the pair
             result += (n * target)
             count[n] -= 1
             count[target] -= 1
         
-        return result
+        return
