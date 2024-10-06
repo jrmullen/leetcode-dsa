@@ -131,6 +131,7 @@
 |  1590  |                           [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/)                           |   Medium   |     Arrays      | [#277](/../../issues/277) |
 |  1684  |                           [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)                           |   Easy   |     Arrays      | [#221](/../../issues/221) |
 |  1804  |                           [Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/)                           |   Medium   |     Tries      | [#269](/../../issues/269) |
+|  1813  |                           [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)                           |   Medium   |     Two Pointers      | [#285](/../../issues/285) |
 |  1858  |                           [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/)                           |   Medium   |     Tries      | [#259](/../../issues/259) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
 |  2326  |                 [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)            |   Medium   |     Linked List      | [#215](/../../issues/215) |
