@@ -138,6 +138,7 @@
 |  2416  |                 [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)            |   Hard   |     Tries      | [#253](/../../issues/253) |
 |  2419  |                 [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)            |   Medium   |     Bit Manipulation      | [#229](/../../issues/229) |
 |  2491  |                 [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/)            |   Medium   |     Arrays & Hashing      | [#279](/../../issues/279) |
+|  2696  |                 [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)            |   Easy   |     Stack      | [#286](/../../issues/286) |
 |  2707  |                 [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)            |   Medium   |     1D Dynamic Programming      | [#249](/../../issues/249) |
 |  2807  |                 [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)            |   Medium   |     Linked List      | [#217](/../../issues/217) |
 |  3043  |                 [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)            |   Medium   |     Tries      | [#251](/../../issues/251) |
