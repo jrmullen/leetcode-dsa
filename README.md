@@ -133,6 +133,7 @@
 |  1804  |                           [Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/)                           |   Medium   |     Tries      | [#269](/../../issues/269) |
 |  1813  |                           [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/description/)                           |   Medium   |     Two Pointers      | [#285](/../../issues/285) |
 |  1858  |                           [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/)                           |   Medium   |     Tries      | [#259](/../../issues/259) |
+|  1963  |                           [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/)                    |   Medium   |     Stack      | [#288](/../../issues/288) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
 |  2326  |                 [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)            |   Medium   |     Linked List      | [#215](/../../issues/215) |
 |  2416  |                 [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)            |   Hard   |     Tries      | [#253](/../../issues/253) |
