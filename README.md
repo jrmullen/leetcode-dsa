@@ -162,6 +162,7 @@
 |  2530  |                 [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)            |   Medium   |     Heap / Priority Queue      | [#308](/../../issues/308) |
 |  2583  |                 [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)            |   Medium   |     Trees      | [#330](/../../issues/330) |
 |  2641  |                 [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)            |   Medium   |     Trees      | [#332](/../../issues/332) |
+|  2664  |                 [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/description/)            |   Medium   |     Backtracking      | [#340](/../../issues/340) |
 |  2696  |                 [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)            |   Easy   |     Stack      | [#286](/../../issues/286) |
 |  2707  |                 [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)            |   Medium   |     1D Dynamic Programming      | [#249](/../../issues/249) |
 |  2807  |                 [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)            |   Medium   |     Linked List      | [#217](/../../issues/217) |
