@@ -123,6 +123,7 @@
 |  746   |                                        [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                        |   Easy   |     1-D Dynamic Programming      |  [#187](/../../issues/187)  |
 |  784   |                                   [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                   |   Medium   |  Backtracking  |   [#1](/../../issues/1)   |
 |  797   |                           [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                           |   Medium   |     Graphs     |   [#2](/../../issues/2)   |
+|  846   |                                      [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)                                      |   Medium   |     Greedy      |  [#350](/../../issues/350)  |
 |  853   |                                      [Car Fleet](https://leetcode.com/problems/car-fleet/)                                      |   Medium   |     Stack      |  [#48](/../../issues/48)  |
 |  875   |                                       [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                       |   Medium   | Binary Search  |  [#65](/../../issues/65)  |
 |  884   |                              [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)                            |   Easy   |  Strings  |  [#238](/../../issues/238)  |
