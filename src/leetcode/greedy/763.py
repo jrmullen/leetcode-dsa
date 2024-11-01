@@ -1,4 +1,6 @@
-result = []
+class Solution:
+    def partitionLabels(self, s: str) -> List[int]:
+        result = []
         partitionStart = 0
         partitionEnd = 0
         partitionSize = 0
