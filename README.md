@@ -121,6 +121,7 @@
 |  731   |                                        [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                        |   Medium   |     Intervals      |  [#261](/../../issues/261)  |
 |  739   |                                        [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                        |   Medium   |     Stack      |  [#46](/../../issues/46)  |
 |  746   |                                        [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                        |   Easy   |     1-D Dynamic Programming      |  [#187](/../../issues/187)  |
+|  763   |               [Partition Labels](https://leetcode.com/problems/partition-labels/description/)              |   Medium   |     Greedy      |  [#355](/../../issues/355)  |
 |  784   |                                   [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                   |   Medium   |  Backtracking  |   [#1](/../../issues/1)   |
 |  797   |                           [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                           |   Medium   |     Graphs     |   [#2](/../../issues/2)   |
 |  846   |                                      [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)                                      |   Medium   |     Greedy      |  [#350](/../../issues/350)  |
