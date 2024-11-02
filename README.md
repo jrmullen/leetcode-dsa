@@ -164,6 +164,7 @@
 |  2406  |                 [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)            |   Medium   |      Heap / Priority Queue     | [#304](/../../issues/304) |
 |  2416  |                 [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)            |   Hard   |     Tries      | [#253](/../../issues/253) |
 |  2419  |                 [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)            |   Medium   |     Bit Manipulation      | [#229](/../../issues/229) |
+|  2490  |                 [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/)            |   Easy   |     String      | [#357](/../../issues/357) |
 |  2491  |                 [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/)            |   Medium   |     Arrays & Hashing      | [#279](/../../issues/279) |
 |  2501  |                 [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/)            |   Medium   |     1D Dynamic Programming      | [#344](/../../issues/344) |
 |  2530  |                 [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)            |   Medium   |     Heap / Priority Queue      | [#308](/../../issues/308) |
