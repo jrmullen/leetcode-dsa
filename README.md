@@ -179,4 +179,5 @@
 |  2838  |                 [Maximum Coins Heroes Can Collect](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)            |   Medium   |     Binary Search      | [#300](/../../issues/300) |
 |  2938  |                 [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)            |   Medium   |     Two Pointers      | [#310](/../../issues/310) |
 |  3043  |                 [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)            |   Medium   |     Tries      | [#251](/../../issues/251) |
+|  3163  |                 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)            |   Medium   |     Strings      | [#361](/../../issues/361) |
 |  3217  |                 [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)            |   Medium   |     Linked List      | [#211](/../../issues/211) |
