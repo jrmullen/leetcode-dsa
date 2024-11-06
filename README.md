@@ -88,6 +88,7 @@
 |  252   |                                             [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)                                             |    Easy    |     Intervals     |  [#292](/../../issues/292)  |
 |  253   |                                             [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)                                             |    Medium    |     Intervals     |  [#298](/../../issues/298)  |
 |  261   |                           [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                           |   Medium   |     Graphs     |  [#167](/../../issues/167)  |
+|  268   |                     [Missing Number](https://leetcode.com/problems/missing-number/description/)                      |   Easy   |     Bit Manipulation     |  [#368](/../../issues/368)  |
 |  271   |                           [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)                           |   Medium   |     Arrays & Hashing     |  [#61](/../../issues/61)  |
 |  286   |                                           [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)                                           |   Medium   |     Graphs     | [#161](/../../issues/161) |
 |  287   |                                 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 |   Medium   |  Linked List   |  [#95](/../../issues/95)  |
