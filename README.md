@@ -174,6 +174,7 @@
 |  2501  |                 [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/)            |   Medium   |     1D Dynamic Programming      | [#344](/../../issues/344) |
 |  2530  |                 [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)            |   Medium   |     Heap / Priority Queue      | [#308](/../../issues/308) |
 |  2583  |                 [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)            |   Medium   |     Trees      | [#330](/../../issues/330) |
+|  2601  |                 [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/)            |   Medium   |     Greedy      | [#376](/../../issues/376) |
 |  2641  |                 [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)            |   Medium   |     Trees      | [#332](/../../issues/332) |
 |  2664  |                 [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/description/)            |   Medium   |     Backtracking      | [#340](/../../issues/340) |
 |  2684  |                 [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)            |   Medium   |     1D Dynamic Programming      | [#348](/../../issues/348) |
