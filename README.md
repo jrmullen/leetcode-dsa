@@ -173,7 +173,7 @@
 |  2491  |                 [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/)            |   Medium   |     Arrays & Hashing      | [#279](/../../issues/279) |
 |  2501  |                 [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/description/)            |   Medium   |     1D Dynamic Programming      | [#344](/../../issues/344) |
 |  2530  |                 [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/description/)            |   Medium   |     Heap / Priority Queue      | [#308](/../../issues/308) |
-|  2564  |                 [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/)            |   Medium   |     Binary Search      | [#378](/../../issues/378) |
+|  2563  |                 [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/)            |   Medium   |     Binary Search      | [#378](/../../issues/378) |
 |  2583  |                 [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)            |   Medium   |     Trees      | [#330](/../../issues/330) |
 |  2601  |                 [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/)            |   Medium   |     Greedy      | [#376](/../../issues/376) |
 |  2641  |                 [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)            |   Medium   |     Trees      | [#332](/../../issues/332) |
