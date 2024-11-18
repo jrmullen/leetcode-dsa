@@ -14,8 +14,6 @@ class Solution:
 
             maxFreq = max(maxFreq, count[s[r]])
 
-            
-
             # If the window size - maxFreq exceeds size K, the window is no longer valid, so the left pointer must
             # be shifted to shrink the window until it is once again valid.
             # Remember windowLength = K + maxFreq, which means windowLength - maxFreq <= K
