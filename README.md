@@ -191,3 +191,4 @@
 |  3097  |                 [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)            |   Medium   |     Bit Manipulation      | [#374](/../../issues/374) |
 |  3163  |                 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)            |   Medium   |     Strings      | [#361](/../../issues/361) |
 |  3217  |                 [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)            |   Medium   |     Linked List      | [#211](/../../issues/211) |
+|  3254  |                 [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/)            |   Medium   |     Sliding Window      | [#382](/../../issues/382) |
