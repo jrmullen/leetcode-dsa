@@ -1,5 +1,6 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        result = ''
         # If `t` is a longer string than `s` it cannot be a substring
         if len(t) > len(s):
             return result
@@ -8,7 +9,6 @@ class Solution:
         countT = defaultdict(int)
         countS = defaultdict(int)
         shortest = float('inf') # Track the length of the shortest `result` string encountered
-        result = ''
 
         # Populate the count dict `ct` of characters in `t`
         for c in t:
