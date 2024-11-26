@@ -192,6 +192,7 @@
 |  2807  |                 [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)            |   Medium   |     Linked List      | [#217](/../../issues/217) |
 |  2838  |                 [Maximum Coins Heroes Can Collect](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)            |   Medium   |     Binary Search      | [#300](/../../issues/300) |
 |  2914  |                 [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)            |   Medium   |     Strings      | [#365](/../../issues/365) |
+|  2924  |                 [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/)            |   Medium   |     Graph      | [#399](/../../issues/399) |
 |  2938  |                 [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)            |   Medium   |     Two Pointers      | [#310](/../../issues/310) |
 |  3011  |                 [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/)            |   Medium   |     Bit Manipulation      | [#367](/../../issues/367) |
 |  3043  |                 [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)            |   Medium   |     Tries      | [#251](/../../issues/251) |
