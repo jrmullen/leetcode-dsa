@@ -101,6 +101,7 @@
 |  371   |                                   [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)                                   |   Medium   |     Bit Manipulation     |  [#406](/../../issues/406)  |
 |  386   |                                   [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)                                   |   Medium   |     Tries     |  [#244](/../../issues/244)  |
 |  399   |       [Evaluate Division](https://leetcode.com/problems/evaluate-division/)     |   Medium   |     Graphs     |  [#195](/../../issues/195)  |
+|  412   |                               [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                               |   Easy   |     Strings     | [#409](/../../issues/409) |
 |  416   |                               [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                               |   Medium   |     1-D Dynamic Programming     | [#209](/../../issues/209) |
 |  417   |                               [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                               |   Medium   |     Graphs     | [#158](/../../issues/158) |
 |  424   |                   [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                   |   Medium   | Sliding Window |  [#77](/../../issues/77)  |
