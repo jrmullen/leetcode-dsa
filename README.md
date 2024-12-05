@@ -178,6 +178,7 @@
 |  2257  |                 [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/)            |   Medium   |     Arrays & Hashing      | [#390](/../../issues/390) |
 |  2275  |                 [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/)            |   Medium   |     Bit Manipulation      | [#369](/../../issues/369) |
 |  2326  |                 [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)            |   Medium   |     Linked List      | [#215](/../../issues/215) |
+|  2337  |                 [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)            |   Medium   |     Two Pointers      | [#411](/../../issues/411) |
 |  2406  |                 [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/)            |   Medium   |      Heap / Priority Queue     | [#304](/../../issues/304) |
 |  2416  |                 [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)            |   Hard   |     Tries      | [#253](/../../issues/253) |
 |  2419  |                 [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)            |   Medium   |     Bit Manipulation      | [#229](/../../issues/229) |
