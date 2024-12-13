@@ -193,6 +193,7 @@
 |  2558  |                 [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/description/)            |   Easy   |     Heap / Priority Queue      | [#421](/../../issues/421) |
 |  2563  |                 [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/)            |   Medium   |     Binary Search      | [#378](/../../issues/378) |
 |  2583  |                 [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)            |   Medium   |     Trees      | [#330](/../../issues/330) |
+|  2593  |                 [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)            |   Medium   |     Heap / Priority Queue      | [#424](/../../issues/424) |
 |  2601  |                 [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/)            |   Medium   |     Greedy      | [#376](/../../issues/376) |
 |  2641  |                 [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)            |   Medium   |     Trees      | [#332](/../../issues/332) |
 |  2664  |                 [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/description/)            |   Medium   |     Backtracking      | [#340](/../../issues/340) |
