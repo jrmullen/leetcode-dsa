@@ -184,6 +184,7 @@
 |  2109  |                           [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)                    |   Medium   |     Strings      | [#408](/../../issues/408) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
 |  2257  |                 [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/)            |   Medium   |     Arrays & Hashing      | [#390](/../../issues/390) |
+|  2270  |                 [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/)            |   Medium   |     Prefix Sum      | [#451](/../../issues/451) |
 |  2275  |                 [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/description/)            |   Medium   |     Bit Manipulation      | [#369](/../../issues/369) |
 |  2326  |                 [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)            |   Medium   |     Linked List      | [#215](/../../issues/215) |
 |  2337  |                 [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/)            |   Medium   |     Two Pointers      | [#411](/../../issues/411) |
