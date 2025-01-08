@@ -223,6 +223,7 @@
 |  2938  |                 [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)            |   Medium   |     Two Pointers      | [#310](/../../issues/310) |
 |  2981  |                 [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/)            |   Medium   |     Sliding Window      | [#426](/../../issues/426) |
 |  3011  |                 [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/)            |   Medium   |     Bit Manipulation      | [#367](/../../issues/367) |
+|  3042  |                 [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/)            |   Easy   |     Strings      | [#461](/../../issues/461) |
 |  3043  |                 [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)            |   Medium   |     Tries      | [#251](/../../issues/251) |
 |  3097  |                 [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)            |   Medium   |     Bit Manipulation      | [#374](/../../issues/374) |
 |  3152  |                 [Special Array II](https://leetcode.com/problems/special-array-ii/description/)            |   Medium   |     Prefix Sum      | [#417](/../../issues/417) |
