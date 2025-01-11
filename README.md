@@ -140,6 +140,7 @@
 |  853   |                                      [Car Fleet](https://leetcode.com/problems/car-fleet/)                                      |   Medium   |     Stack      |  [#48](/../../issues/48)  |
 |  875   |                                       [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                       |   Medium   | Binary Search  |  [#65](/../../issues/65)  |
 |  884   |                              [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)                            |   Easy   |  Strings  |  [#238](/../../issues/238)  |
+|  916   |                                [Word Subsets](https://leetcode.com/problems/word-subsets/description/)                                |   Medium   | Strings  |  [#469](/../../issues/469)  |
 |  921   |                                [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)                                |   Medium   | Stack  |  [#294](/../../issues/294)  |
 |  951   |                                [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/)                                |   Medium   | Trees  |  [#336](/../../issues/336)  |
 |  962   |                                [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/)                                |   Medium   | Stack  |  [#296](/../../issues/296)  |
