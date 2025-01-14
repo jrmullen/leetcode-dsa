@@ -214,6 +214,7 @@
 |  2593  |                 [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)            |   Medium   |     Heap / Priority Queue      | [#424](/../../issues/424) |
 |  2601  |                 [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/)            |   Medium   |     Greedy      | [#376](/../../issues/376) |
 |  2641  |                 [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)            |   Medium   |     Trees      | [#332](/../../issues/332) |
+|  2657  |                 [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)            |   Medium   |     Arrays & Hashing      | [#471](/../../issues/471) |
 |  2664  |                 [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/description/)            |   Medium   |     Backtracking      | [#340](/../../issues/340) |
 |  2684  |                 [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)            |   Medium   |     1D Dynamic Programming      | [#348](/../../issues/348) |
 |  2696  |                 [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)            |   Easy   |     Stack      | [#286](/../../issues/286) |
