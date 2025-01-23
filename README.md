@@ -136,6 +136,7 @@
 |  769   |               [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)              |   Medium   |     Arrays & Hashing      |  [#438](/../../issues/438)  |
 |  778   |               [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)              |   Hard   |     Graphs      |  [#479](/../../issues/479)  |
 |  784   |                                   [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                   |   Medium   |  Backtracking  |   [#1](/../../issues/1)   |
+|  787   |                                   [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)                                   |   Medium   |  Graphs  |   [#500](/../../issues/500)   |
 |  796   |                           [Rotate String](https://leetcode.com/problems/rotate-string/description/)                           |   Easy   |     Strings     |   [#359](/../../issues/359)   |
 |  797   |                           [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                           |   Medium   |     Graphs     |   [#2](/../../issues/2)   |
 |  846   |                                      [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)                                      |   Medium   |     Greedy      |  [#350](/../../issues/350)  |
