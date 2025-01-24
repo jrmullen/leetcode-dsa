@@ -13,9 +13,7 @@ class Solution:
         
         # Update the 3 most recent numbers for iterations 3 to n
         for _ in range(3, n + 1):
-            a = b
-            b = c
-            c = a + b + c
+             a, b, c = b, c, a + b + c
 
         # Finally, return the most recently calculated number, `c`
         return c
