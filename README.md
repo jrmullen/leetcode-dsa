@@ -228,6 +228,7 @@
 |  2601  |                 [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/)            |   Medium   |     Greedy      | [#376](/../../issues/376) |
 |  2641  |                 [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/description/)            |   Medium   |     Trees      | [#332](/../../issues/332) |
 |  2657  |                 [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)            |   Medium   |     Arrays & Hashing      | [#471](/../../issues/471) |
+|  2658  |                 [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/)            |   Medium   |     Graphs      | [#508](/../../issues/508) |
 |  2661  |                 [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/)            |   Medium   |     Arrays & Hashing      | [#490](/../../issues/490) |
 |  2664  |                 [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/description/)            |   Medium   |     Backtracking      | [#340](/../../issues/340) |
 |  2683  |                 [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/)            |   Medium   |     Bit Manipulation      | [#483](/../../issues/483) |
