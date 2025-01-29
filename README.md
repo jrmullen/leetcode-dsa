@@ -94,6 +94,7 @@
 |  268   |                     [Missing Number](https://leetcode.com/problems/missing-number/description/)                      |   Easy   |     Bit Manipulation     |  [#368](/../../issues/368)  |
 |  269   |                     [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)                      |   Hard   |     Graphs     |  [#492](/../../issues/492)  |
 |  271   |                           [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/)                           |   Medium   |     Arrays & Hashing     |  [#61](/../../issues/61)  |
+|  279   |                           [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                           |   Medium   |     1D Dynamic Programming     |  [#510](/../../issues/510)  |
 |  286   |                                           [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)                                           |   Medium   |     Graphs     | [#161](/../../issues/161) |
 |  287   |                                 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 |   Medium   |  Linked List   |  [#95](/../../issues/95)  |
 |  300   |       [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)     |   Medium   |     1-D Dynamic Programming     |  [#207](/../../issues/207)  |
