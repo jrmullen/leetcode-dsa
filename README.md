@@ -140,6 +140,7 @@
 |  787   |                                   [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)                                   |   Medium   |  Graphs  |   [#500](/../../issues/500)   |
 |  796   |                           [Rotate String](https://leetcode.com/problems/rotate-string/description/)                           |   Easy   |     Strings     |   [#359](/../../issues/359)   |
 |  797   |                           [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)                           |   Medium   |     Graphs     |   [#2](/../../issues/2)   |
+|  827   |                                      [Making A Large Island](https://leetcode.com/problems/making-a-large-island/description/)                                      |   Hard   |     Graphs      |  [#512](/../../issues/512)  |
 |  846   |                                      [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)                                      |   Medium   |     Greedy      |  [#350](/../../issues/350)  |
 |  853   |                                      [Car Fleet](https://leetcode.com/problems/car-fleet/)                                      |   Medium   |     Stack      |  [#48](/../../issues/48)  |
 |  875   |                                       [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                       |   Medium   | Binary Search  |  [#65](/../../issues/65)  |
