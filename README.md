@@ -253,6 +253,7 @@
 |  3042  |                 [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/)            |   Easy   |     Strings      | [#461](/../../issues/461) |
 |  3043  |                 [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)            |   Medium   |     Tries      | [#251](/../../issues/251) |
 |  3097  |                 [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)            |   Medium   |     Bit Manipulation      | [#374](/../../issues/374) |
+|  3105  |                 [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/)            |   Easy   |     Sliding Window      | [#520](/../../issues/520) |
 |  3151  |                 [Special Array I](https://leetcode.com/problems/special-array-i/description/)            |   Easy   |     Sliding Window      | [#514](/../../issues/514) |
 |  3152  |                 [Special Array II](https://leetcode.com/problems/special-array-ii/description/)            |   Medium   |     Prefix Sum      | [#417](/../../issues/417) |
 |  3163  |                 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)            |   Medium   |     Strings      | [#361](/../../issues/361) |
