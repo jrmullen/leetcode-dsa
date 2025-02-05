@@ -99,6 +99,7 @@
 |  286   |                                           [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)                                           |   Medium   |     Graphs     | [#161](/../../issues/161) |
 |  287   |                                 [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                 |   Medium   |  Linked List   |  [#95](/../../issues/95)  |
 |  300   |       [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)     |   Medium   |     1-D Dynamic Programming     |  [#207](/../../issues/207)  |
+|  309   |       [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/)     |   Medium   |     2-D Dynamic Programming     |  [#528](/../../issues/528)  |
 |  322   |       [Coin Change](https://leetcode.com/problems/coin-change/)     |   Medium   |     1-D Dynamic Programming     |  [#201](/../../issues/201)  |
 |  323   |       [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)     |   Medium   |     Graphs     |  [#169](/../../issues/169)  |
 |  332   |       [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/description/)     |   Hard   |     Graphs     |  [#445](/../../issues/445)  |
