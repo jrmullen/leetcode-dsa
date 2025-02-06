@@ -18,6 +18,7 @@
 |   36   |                                              [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                              |   Medium   |     Arrays & Hashing     |  [#35](/../../issues/35)  |
 |   39   |                                           [Combination Sum](https://leetcode.com/problems/combination-sum/)                                           |   Medium   |  Backtracking  | [#134](/../../issues/134) |
 |   40   |                                        [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                        |   Medium   |  Backtracking  | [#142](/../../issues/142) |
+|   42   |                       [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                           |   Hard   |  Two Pointers  | [#532](/../../issues/532) |
 |   45   |                                              [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                                              |   Medium   |  Greedy  | [#334](/../../issues/334) |
 |   46   |                                              [Permutations](https://leetcode.com/problems/permutations/)                                              |   Medium   |  Backtracking  | [#138](/../../issues/138) |
 |   49   |                                            [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                            |   Medium   |     Arrays & Hashing     |  [#27](/../../issues/27)  |
