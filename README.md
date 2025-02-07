@@ -263,6 +263,7 @@
 |  3105  |                 [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/)            |   Easy   |     Sliding Window      | [#520](/../../issues/520) |
 |  3151  |                 [Special Array I](https://leetcode.com/problems/special-array-i/description/)            |   Easy   |     Sliding Window      | [#514](/../../issues/514) |
 |  3152  |                 [Special Array II](https://leetcode.com/problems/special-array-ii/description/)            |   Medium   |     Prefix Sum      | [#417](/../../issues/417) |
+|  3160  |                 [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)            |   Medium   |     Arrays & Hashing      | [#536](/../../issues/536) |
 |  3163  |                 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)            |   Medium   |     Strings      | [#361](/../../issues/361) |
 |  3217  |                 [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)            |   Medium   |     Linked List      | [#211](/../../issues/211) |
 |  3223  |                 [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)            |   Medium   |     Arrays & Hashing      | [#475](/../../issues/475) |
