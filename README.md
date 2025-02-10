@@ -266,6 +266,7 @@
 |  3152  |                 [Special Array II](https://leetcode.com/problems/special-array-ii/description/)            |   Medium   |     Prefix Sum      | [#417](/../../issues/417) |
 |  3160  |                 [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)            |   Medium   |     Arrays & Hashing      | [#536](/../../issues/536) |
 |  3163  |                 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)            |   Medium   |     Strings      | [#361](/../../issues/361) |
+|  3174  |                 [Clear Digits](https://leetcode.com/problems/clear-digits/description/)            |   Easy   |     Stack      | [#541](/../../issues/541) |
 |  3217  |                 [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)            |   Medium   |     Linked List      | [#211](/../../issues/211) |
 |  3223  |                 [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)            |   Medium   |     Arrays & Hashing      | [#475](/../../issues/475) |
 |  3254  |                 [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/)            |   Medium   |     Sliding Window      | [#382](/../../issues/382) |
