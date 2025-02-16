@@ -251,6 +251,7 @@
 |  2683  |                 [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/)            |   Medium   |     Bit Manipulation      | [#483](/../../issues/483) |
 |  2684  |                 [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)            |   Medium   |     1D Dynamic Programming      | [#348](/../../issues/348) |
 |  2696  |                 [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)            |   Easy   |     Stack      | [#286](/../../issues/286) |
+|  2698  |                 [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/)            |   Medium   |     Backtracking      | [#552](/../../issues/552) |
 |  2707  |                 [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)            |   Medium   |     1D Dynamic Programming      | [#249](/../../issues/249) |
 |  2762  |                 [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/)            |   Medium   |     Heap / Priority Queue      | [#430](/../../issues/430) |
 |  2779  |                 [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/)            |   Medium   |     Sliding Window      | [#420](/../../issues/420) |
