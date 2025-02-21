@@ -216,6 +216,7 @@
 |  1957  |                           [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)                    |   Easy   |     String      | [#351](/../../issues/351) |
 |  1963  |                           [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/)                    |   Medium   |     Stack      | [#288](/../../issues/288) |
 |  1975  |                           [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/)                    |   Medium   |     Arrays & Hashing      | [#396](/../../issues/396) |
+|  1980  |                           [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/)                    |   Medium   |     Backtracking      | [#564](/../../issues/564) |
 |  2017  |           [Grid Game](https://leetcode.com/problems/grid-game/description/)            |   Medium   |     Prefix Sum      | [#494](/../../issues/494) |
 |  2044  |                           [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)                    |   Medium   |     Backtracking      | [#316](/../../issues/316) |
 |  2109  |                           [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)                    |   Medium   |     Strings      | [#408](/../../issues/408) |
