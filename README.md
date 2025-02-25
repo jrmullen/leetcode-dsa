@@ -116,6 +116,7 @@
 |  432   |                   [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)                   |   Hard   | Linked List |  [#265](/../../issues/265)  |
 |  435   |                   [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                   |       Medium       |       Intervals       |       [#290](/../../issues/290)  |
 |  440   |                   [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)                   |   Hard   | Tries |  [#246](/../../issues/246)  |
+|  494   |                   [Target Sum](https://leetcode.com/problems/target-sum/description/)                   |   Medium   | 2-D Dynamic Programming |  [#570](/../../issues/570)  |
 |  515   |                                   [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)                                   |    Medium    |     Trees      | [#442](/../../issues/442) |
 |  518   |                     [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)                      |    Medium    |     2-D Dynamic Programming      | [#546](/../../issues/546) |
 |  539   |                                   [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)                                   |    Medium    |     Arrays & Hashing      | [#233](/../../issues/233) |
