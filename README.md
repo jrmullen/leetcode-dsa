@@ -242,7 +242,8 @@
 |  2419  |                 [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)            |   Medium   |     Bit Manipulation      | [#229](/../../issues/229) |
 |  2425  |                 [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/)            |   Medium   |     Bit Manipulation      | [#481](/../../issues/481) |
 |  2429  |                 [Minimize XOR](https://leetcode.com/problems/minimize-xor/description/)            |   Medium   |     Bit Manipulation      | [#477](/../../issues/477) |
-|  2461  |                 [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)            |   Medium   |     Sliding Window      | [#836](/../../issues/386) |
+|  2460  |                 [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)            |   Easy   |     Two Pointers      | [#578](/../../issues/578) |
+|  2461  |                 [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/)            |   Medium   |     Sliding Window      | [#386](/../../issues/386) |
 |  2467  |                 [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/)            |   Medium   |     Trees      | [#572](/../../issues/572) |
 |  2490  |                 [Circular Sentence](https://leetcode.com/problems/circular-sentence/description/)            |   Easy   |     Strings      | [#357](/../../issues/357) |
 |  2491  |                 [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/description/)            |   Medium   |     Arrays & Hashing      | [#279](/../../issues/279) |
