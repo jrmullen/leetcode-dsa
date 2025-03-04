@@ -225,6 +225,7 @@
 |  2017  |           [Grid Game](https://leetcode.com/problems/grid-game/description/)            |   Medium   |     Prefix Sum      | [#494](/../../issues/494) |
 |  2044  |                           [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)                    |   Medium   |     Backtracking      | [#316](/../../issues/316) |
 |  2109  |                           [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)                    |   Medium   |     Strings      | [#408](/../../issues/408) |
+|  2161  |                           [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)                    |   Medium   |     Stack      | [#582](/../../issues/582) |
 |  2185  |                           [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)                    |   Easy   |     Strings      | [#465](/../../issues/465) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
 |  2257  |                 [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/)            |   Medium   |     Arrays & Hashing      | [#390](/../../issues/390) |
