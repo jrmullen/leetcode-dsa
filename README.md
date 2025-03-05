@@ -256,6 +256,7 @@
 |  2559  |                 [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/)            |   Medium   |     Prefix Sum      | [#449](/../../issues/449) |
 |  2563  |                 [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/)            |   Medium   |     Binary Search      | [#378](/../../issues/378) |
 |  2570  |                 [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)            |   Easy   |     Two Pointers      | [#580](/../../issues/580) |
+|  2579  |                 [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/description/)            |   Medium   |     Math & Geometry      | [#584](/../../issues/584) |
 |  2583  |                 [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/description/)            |   Medium   |     Trees      | [#330](/../../issues/330) |
 |  2593  |                 [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/description/)            |   Medium   |     Heap / Priority Queue      | [#424](/../../issues/424) |
 |  2601  |                 [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/description/)            |   Medium   |     Greedy      | [#376](/../../issues/376) |
