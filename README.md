@@ -278,6 +278,7 @@
 |  2924  |                 [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/)            |   Medium   |     Graph      | [#399](/../../issues/399) |
 |  2938  |                 [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)            |   Medium   |     Two Pointers      | [#310](/../../issues/310) |
 |  2948  |                 [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/)            |   Medium   |     Arrays & Hashing      | [#504](/../../issues/504) |
+|  2965  |                 [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)            |   Easy   |     Arrays & Hashing      | [#586](/../../issues/586) |
 |  2981  |                 [Find Longest Special Substring That Occurs Thrice I](https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/description/)            |   Medium   |     Sliding Window      | [#426](/../../issues/426) |
 |  3011  |                 [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/)            |   Medium   |     Bit Manipulation      | [#367](/../../issues/367) |
 |  3042  |                 [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/)            |   Easy   |     Strings      | [#461](/../../issues/461) |
