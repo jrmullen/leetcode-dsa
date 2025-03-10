@@ -10,7 +10,7 @@ class Solution:
 
         # Sliding window over the entire array of `colors`
         for r in range(len(colors)):
-            # If the
+            # If the new tile is the same color as the previous tile the window is no longer valid
             if colors[r] == colors[r - 1]:
                 l = r # Reset the window
 
