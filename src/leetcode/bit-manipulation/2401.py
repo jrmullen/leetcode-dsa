@@ -1,7 +1,7 @@
 class Solution:
     def longestNiceSubarray(self, nums: List[int]) -> int:
         result = 0
-        used = 0
+        used = 0 # Track which bits are used in the current window
         l = 0
 
         for r in range(len(nums)):
