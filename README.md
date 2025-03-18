@@ -229,6 +229,7 @@
 |  2109  |                           [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)                    |   Medium   |     Strings      | [#408](/../../issues/408) |
 |  2161  |                           [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)                    |   Medium   |     Stack      | [#582](/../../issues/582) |
 |  2185  |                           [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)                    |   Easy   |     Strings      | [#465](/../../issues/465) |
+|  2206  |                 [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)            |   Easy   |     Arrays & Hashing      | [#603](/../../issues/603) |
 |  2220  |                 [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)            |   Easy   |     Bit Manipulation      | [#219](/../../issues/219) |
 |  2226  |                 [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/)            |   Medium   |     Binary Search      | [#600](/../../issues/600) |
 |  2257  |                 [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/description/)            |   Medium   |     Arrays & Hashing      | [#390](/../../issues/390) |
