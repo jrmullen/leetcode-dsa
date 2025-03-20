@@ -300,6 +300,7 @@
 |  3160  |                 [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)            |   Medium   |     Arrays & Hashing      | [#536](/../../issues/536) |
 |  3163  |                 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)            |   Medium   |     Strings      | [#361](/../../issues/361) |
 |  3174  |                 [Clear Digits](https://leetcode.com/problems/clear-digits/description/)            |   Easy   |     Stack      | [#541](/../../issues/541) |
+|  3191  |                 [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/)            |   Medium   |     Sliding Window      | [#609](/../../issues/609) |
 |  3208  |                 [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/)            |   Medium   |     Sliding Window      | [#594](/../../issues/594) |
 |  3217  |                 [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)            |   Medium   |     Linked List      | [#211](/../../issues/211) |
 |  3223  |                 [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)            |   Medium   |     Arrays & Hashing      | [#475](/../../issues/475) |
