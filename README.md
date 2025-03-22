@@ -228,6 +228,7 @@
 |  2017  |           [Grid Game](https://leetcode.com/problems/grid-game/description/)            |   Medium   |     Prefix Sum      | [#494](/../../issues/494) |
 |  2044  |                           [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)                    |   Medium   |     Backtracking      | [#316](/../../issues/316) |
 |  2109  |                           [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/)                    |   Medium   |     Strings      | [#408](/../../issues/408) |
+|  2115  |                           [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)                    |   Medium   |     Graphs      | [#613](/../../issues/613) |
 |  2161  |                           [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)                    |   Medium   |     Stack      | [#582](/../../issues/582) |
 |  2185  |                           [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)                    |   Easy   |     Strings      | [#465](/../../issues/465) |
 |  2206  |                 [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/)            |   Easy   |     Arrays & Hashing      | [#603](/../../issues/603) |
