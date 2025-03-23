@@ -277,6 +277,7 @@
 |  2664  |                 [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/description/)            |   Medium   |     Backtracking      | [#340](/../../issues/340) |
 |  2683  |                 [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description/)            |   Medium   |     Bit Manipulation      | [#483](/../../issues/483) |
 |  2684  |                 [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/description/)            |   Medium   |     1D Dynamic Programming      | [#348](/../../issues/348) |
+|  2685  |                 [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/)            |   Medium   |     Graphs      | [#615](/../../issues/615) |
 |  2696  |                 [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)            |   Easy   |     Stack      | [#286](/../../issues/286) |
 |  2698  |                 [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/)            |   Medium   |     Backtracking      | [#552](/../../issues/552) |
 |  2707  |                 [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)            |   Medium   |     1D Dynamic Programming      | [#249](/../../issues/249) |
