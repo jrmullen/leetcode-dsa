@@ -303,8 +303,7 @@
 |  3152  |                 [Special Array II](https://leetcode.com/problems/special-array-ii/description/)            |   Medium   |     Prefix Sum      | [#417](/../../issues/417) |
 |  3160  |                 [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/)            |   Medium   |     Arrays & Hashing      | [#536](/../../issues/536) |
 |  3163  |                 [String Compression III](https://leetcode.com/problems/string-compression-iii/description/)            |   Medium   |     Strings      | [#361](/../../issues/361) |
-|  3169  |                 [Count Days Without Meetings
-](https://leetcode.com/problems/count-days-without-meetings/description/)            |   Medium   |     Intervals      | [#619](/../../issues/619) |
+|  3169  |                 [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/description/)            |   Medium   |     Intervals      | [#619](/../../issues/619) |
 |  3174  |                 [Clear Digits](https://leetcode.com/problems/clear-digits/description/)            |   Easy   |     Stack      | [#541](/../../issues/541) |
 |  3191  |                 [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/)            |   Medium   |     Sliding Window      | [#609](/../../issues/609) |
 |  3208  |                 [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/description/)            |   Medium   |     Sliding Window      | [#594](/../../issues/594) |
