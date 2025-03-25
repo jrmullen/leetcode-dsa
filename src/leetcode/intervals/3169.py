@@ -4,7 +4,7 @@ class Solution:
         meetings.sort()
         prev_end = 0 # Track the ending time of the previous meeting
 
-        # Iterate over each
+        # Iterate over each meeting interval
         for start, end in meetings:
             start = max(start, prev_end + 1) # To account for overlap, start at the latest ending time between `start` and the day after `prev_end`
             length = end - start + 1 # Calculate the number of days the meeting will require
