@@ -311,3 +311,4 @@
 |  3223  |                 [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/)            |   Medium   |     Arrays & Hashing      | [#475](/../../issues/475) |
 |  3254  |                 [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/description/)            |   Medium   |     Sliding Window      | [#382](/../../issues/382) |
 |  3264  |                 [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/description/)            |   Easy   |     Heap / Priority Queue      | [#432](/../../issues/432) |
+|  3394  |                 [Check if Grid can be Cut into Sections](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description/)            |   Medium   |     Intervals      | [#621](/../../issues/621) |
