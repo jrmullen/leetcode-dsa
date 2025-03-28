@@ -159,6 +159,7 @@
 |  973   |                                [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                |   Medium   | Heap / Priority Queue  |  [#177](/../../issues/177)  |
 |  981   |                                [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                |   Medium   | Binary Search  |  [#70](/../../issues/70)  |
 |  994   |                                           [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                           |   Medium   |     Graphs     | [#156](/../../issues/156) |
+|  997   |              [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)             |   Easy   |     Graphs     | [#629](/../../issues/629) |
 |  1014  |                           [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/description/)                           |   Medium   |     1D Dynamic Programming      | [#443](/../../issues/443) |
 |  1028  |                           [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/)                           |   Hard   |     Trees      | [#567](/../../issues/567) |
 |  1046  |                           [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                           |   Easy   |     Heap / Priority Queue      | [#175](/../../issues/175) |
