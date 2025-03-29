@@ -285,6 +285,7 @@
 |  2696  |                 [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/)            |   Easy   |     Stack      | [#286](/../../issues/286) |
 |  2698  |                 [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/)            |   Medium   |     Backtracking      | [#552](/../../issues/552) |
 |  2707  |                 [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)            |   Medium   |     1D Dynamic Programming      | [#249](/../../issues/249) |
+|  2737  |                 [Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/description/)            |   Medium   |     Graphs      | [#631](/../../issues/631) |
 |  2762  |                 [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/description/)            |   Medium   |     Heap / Priority Queue      | [#430](/../../issues/430) |
 |  2779  |                 [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/)            |   Medium   |     Sliding Window      | [#420](/../../issues/420) |
 |  2780  |                 [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/)            |   Medium   |     Arrays & Hashing      | [#625](/../../issues/625) |
