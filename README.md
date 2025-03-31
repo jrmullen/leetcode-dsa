@@ -21,6 +21,7 @@
 |   42   |                       [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                           |   Hard   |  Two Pointers  | [#532](/../../issues/532) |
 |   45   |                                              [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                                              |   Medium   |  Greedy  | [#334](/../../issues/334) |
 |   46   |                                              [Permutations](https://leetcode.com/problems/permutations/)                                              |   Medium   |  Backtracking  | [#138](/../../issues/138) |
+|   47   |                                              [Permutations II](https://leetcode.com/problems/permutations-ii/description/)                                              |   Medium   |  Backtracking  | [#635](/../../issues/635) |
 |   49   |                                            [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                            |   Medium   |     Arrays & Hashing     |  [#27](/../../issues/27)  |
 |   53   |                                  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                  |   Medium   |     Greedy     |  [#320](/../../issues/320)  |
 |   55   |                                            [Jump Game](https://leetcode.com/problems/jump-game/description/)                                            |   Medium   |     Greedy     |  [#328](/../../issues/328)  |
