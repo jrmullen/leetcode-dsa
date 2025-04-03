@@ -294,6 +294,7 @@
 |  2807  |                 [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)            |   Medium   |     Linked List      | [#217](/../../issues/217) |
 |  2838  |                 [Maximum Coins Heroes Can Collect](https://leetcode.com/problems/maximum-coins-heroes-can-collect/description/)            |   Medium   |     Binary Search      | [#300](/../../issues/300) |
 |  2873  |                 [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/)            |   Easy   |     Greedy      | [#637](/../../issues/637) |
+|  2874  |                 [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/description/)            |   Medium   |     Greedy      | [#639](/../../issues/639) |
 |  2914  |                 [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)            |   Medium   |     Strings      | [#365](/../../issues/365) |
 |  2924  |                 [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/)            |   Medium   |     Graph      | [#399](/../../issues/399) |
 |  2938  |                 [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/description/)            |   Medium   |     Two Pointers      | [#310](/../../issues/310) |
