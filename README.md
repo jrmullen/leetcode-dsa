@@ -235,8 +235,7 @@
 |  1863  |                           [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/)                           |   Easy   |     Backtracking      | [#650](/../../issues/650) |
 |  1899  |                           [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/)                           |   Medium   |     Greedy      | [#353](/../../issues/353) |
 |  1910  |                           [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/)                    |   Medium   |     Stack      | [#543](/../../issues/543) |
-|  1922  |            [Count Good Numbers
-](https://leetcode.com/problems/count-good-numbers/description/)            |   Medium   |     Math & Geometry      | [#674](/../../issues/674) |
+|  1922  |            [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/)            |   Medium   |     Math & Geometry      | [#674](/../../issues/674) |
 |  1930  |                           [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/)                    |   Medium   |     Arrays & Hashing      | [#455](/../../issues/455) |
 |  1942  |                           [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/description/)                    |   Medium   |     Heap / Priority Queue      | [#302](/../../issues/302) |
 |  1957  |                           [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/)                    |   Easy   |     String      | [#351](/../../issues/351) |
