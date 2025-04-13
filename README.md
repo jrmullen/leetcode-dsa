@@ -23,6 +23,7 @@
 |   46   |                                              [Permutations](https://leetcode.com/problems/permutations/)                                              |   Medium   |  Backtracking  | [#138](/../../issues/138) |
 |   47   |                                              [Permutations II](https://leetcode.com/problems/permutations-ii/description/)                                              |   Medium   |  Backtracking  | [#635](/../../issues/635) |
 |   49   |                                            [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                            |   Medium   |     Arrays & Hashing     |  [#27](/../../issues/27)  |
+|   50   |               [Pow(x, n)](https://leetcode.com/problems/powx-n/description/)        |   Medium   |     Math & Geometry     |  [#672](/../../issues/672)  |
 |   53   |                                  [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)                                  |   Medium   |     Greedy     |  [#320](/../../issues/320)  |
 |   55   |                                            [Jump Game](https://leetcode.com/problems/jump-game/description/)                                            |   Medium   |     Greedy     |  [#328](/../../issues/328)  |
 |   56   |                                            [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                            |   Medium   |     Intervals     |  [#283](/../../issues/283)  |
