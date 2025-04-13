@@ -1,6 +1,6 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        def func(x, n):
+        def exponent(x, n):
             # Base case: if `x` is 0, the result will always be 0
             if x == 0:
                 return 0
@@ -9,7 +9,7 @@ class Solution:
             if n == 0:
                 return 1
 
-            result = func(x, n // 2) # Recursively calculate the value of half the exponent
+            result = exponent(x, n // 2) # Recursively calculate the value of half the exponent
             result = result * result # Multiply the `result` with itself to get the full exponential value
 
             # If `n` is odd, it needs to be multipliedd by `x` one additional time to account for integer division rouning down
@@ -17,7 +17,7 @@ class Solution:
             return result if n % 2 == 0 else result * x
         
         # Calculate the exponential result ignoring the sign of `n`
-        result = func(x, abs(n))
+        result = exponent(x, abs(n))
 
         # If `n` is negative, account for that now by making it the denominator
         return result if n >= 0 else 1 / result
