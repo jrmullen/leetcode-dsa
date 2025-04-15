@@ -152,6 +152,7 @@
 |  739   |                                        [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                                        |   Medium   |     Stack      |  [#46](/../../issues/46)  |
 |  743   |                      [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/)                           |   Medium   |     Graphs      |  [#467](/../../issues/467)  |
 |  746   |                                        [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                                        |   Easy   |     1-D Dynamic Programming      |  [#187](/../../issues/187)  |
+|  752   |             [Open the Lock](https://leetcode.com/problems/open-the-lock/description/)             |   Medium   |     Graphs      |  [#678](/../../issues/678)  |
 |  763   |               [Partition Labels](https://leetcode.com/problems/partition-labels/description/)              |   Medium   |     Greedy      |  [#355](/../../issues/355)  |
 |  769   |               [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/)              |   Medium   |     Arrays & Hashing      |  [#438](/../../issues/438)  |
 |  778   |               [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)              |   Hard   |     Graphs      |  [#479](/../../issues/479)  |
