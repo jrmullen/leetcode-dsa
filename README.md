@@ -16,6 +16,7 @@
 |   22   |                                      [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                      |   Medium   |  Backtracking  | [#136](/../../issues/136) |
 |   33   |                            [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                            |   Medium   | Binary Search  |  [#68](/../../issues/68)  |
 |   36   |                                              [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                              |   Medium   |     Arrays & Hashing     |  [#35](/../../issues/35)  |
+|   38   |       [Count and Say](https://leetcode.com/problems/count-and-say/description/)       |   Medium   |  Strings  | [#686](/../../issues/686) |
 |   39   |                                           [Combination Sum](https://leetcode.com/problems/combination-sum/)                                           |   Medium   |  Backtracking  | [#134](/../../issues/134) |
 |   40   |                                        [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)                                        |   Medium   |  Backtracking  | [#142](/../../issues/142) |
 |   42   |                       [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)                           |   Hard   |  Two Pointers  | [#532](/../../issues/532) |
