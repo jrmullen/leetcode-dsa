@@ -201,6 +201,7 @@
 |  1368  |               [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)           |   Hard   |     Graphs      | [#485](/../../issues/485) |
 |  1371  |               [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/)           |   Medium   |     Bit Manipulation      | [#235](/../../issues/235) |
 |  1381  |               [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)           |   Medium   |     Stack      | [#267](/../../issues/267) |
+|  1399  |               [Count Largest Group](https://leetcode.com/problems/count-largest-group/description/)           |   Easy   |     Arrays & Hashing      | [#692](/../../issues/692) |
 |  1405  |                       [Longest Happy String](https://leetcode.com/problems/longest-happy-string/description/)                        |   Medium   |     Heap / Priority Queue      | [#312](/../../issues/312) |
 |  1406  |            [Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)               |   Hard   |     1D Dynamic Programming      | [#517](/../../issues/517) |
 |  1408  |                           [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/)                           |   Easy   |     Strings      | [#459](/../../issues/459) |
