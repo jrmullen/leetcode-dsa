@@ -31,6 +31,7 @@
 |   57   |                                            [Insert Interval](https://leetcode.com/problems/insert-interval/description/)                                            |   Medium   |     Intervals     |  [#281](/../../issues/281)  |
 |   62   |                       [Unique Paths](https://leetcode.com/problems/unique-paths/description/)                        |   Medium   |     2-D Dynamic Programming     |  [#522](/../../issues/522)  |
 |   70   |                                        [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                        |   Easy   | 1-D Dynamic Programming  |  [#185](/../../issues/185)  |
+|   71   |        [Simplify Path](https://leetcode.com/problems/simplify-path/description/)        |   Medium   | Stack  |  [#713](/../../issues/713)  |
 |   74   |                                        [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                        |   Medium   | Binary Search  |  [#59](/../../issues/59)  |
 |   76   |                       [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                  |   Hard   |  Sliding Window  | [#394](/../../issues/394) |
 |   77   |          [Combinations](https://leetcode.com/problems/combinations/description/)         |   Medium   |  Backtracking  | [#666](/../../issues/666) |
