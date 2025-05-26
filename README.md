@@ -124,6 +124,7 @@
 |  368   |                                   [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/description/)                                   |   Medium   |     1D Dynamic Programming      |  [#652](/../../issues/652)  |
 |  371   |                                   [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)                                   |   Medium   |     Bit Manipulation     |  [#406](/../../issues/406)  |
 |  386   |                                   [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)                                   |   Medium   |     Tries     |  [#244](/../../issues/244)  |
+|  394   |       [Decode String](https://leetcode.com/problems/decode-string/description/)     |   Medium   |     Stack     |  [#717](/../../issues/717)  |
 |  399   |       [Evaluate Division](https://leetcode.com/problems/evaluate-division/)     |   Medium   |     Graphs     |  [#195](/../../issues/195)  |
 |  412   |                               [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                               |   Easy   |     Strings     | [#409](/../../issues/409) |
 |  416   |                               [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                               |   Medium   |     1-D Dynamic Programming     | [#209](/../../issues/209) |
