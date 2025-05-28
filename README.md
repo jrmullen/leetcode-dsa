@@ -30,6 +30,7 @@
 |   56   |                                            [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)                                            |   Medium   |     Intervals     |  [#283](/../../issues/283)  |
 |   57   |                                            [Insert Interval](https://leetcode.com/problems/insert-interval/description/)                                            |   Medium   |     Intervals     |  [#281](/../../issues/281)  |
 |   62   |                       [Unique Paths](https://leetcode.com/problems/unique-paths/description/)                        |   Medium   |     2-D Dynamic Programming     |  [#522](/../../issues/522)  |
+|   67   |        [Add Binary](https://leetcode.com/problems/add-binary/description/)        |   Easy   |     Bit Manipulation     |  [#719](/../../issues/719)  |
 |   70   |                                        [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                        |   Easy   | 1-D Dynamic Programming  |  [#185](/../../issues/185)  |
 |   71   |        [Simplify Path](https://leetcode.com/problems/simplify-path/description/)        |   Medium   | Stack  |  [#713](/../../issues/713)  |
 |   74   |                                        [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                        |   Medium   | Binary Search  |  [#59](/../../issues/59)  |
