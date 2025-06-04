@@ -8,6 +8,7 @@
 |   5    |            [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)            |   Medium   | 1-D Dynamic Programming |  [#193](/../../issues/193)  |
 |   7    |            [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)            |   Medium   | Bit Manipulation |  [#428](/../../issues/428)  |
 |   11   |                                 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                 |   Medium   |  Two Pointers  |  [#10](/../../issues/10)  |
+|   14   |      [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)      |   Easy   |  Strings  |  [#724](/../../issues/724)  |
 |   15   |                                                      [3Sum](https://leetcode.com/problems/3sum/)                                                      |   Medium   |  Two Pointers  |  [#55](/../../issues/55)  |
 |   17   |                     [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                     |   Medium   |  Backtracking  | [#148](/../../issues/148) |
 |   19   |                          [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                          |   Medium   |  Linked List   |  [#86](/../../issues/86)  |
