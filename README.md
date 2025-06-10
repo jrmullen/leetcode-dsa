@@ -15,6 +15,7 @@
 |   20   |                                         [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                         |    Easy    |     Stack      |  [#14](/../../issues/14)  |
 |   21   |                                    [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                    |    Easy    |  Linked List   |  [#82](/../../issues/82)  |
 |   22   |                                      [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                                      |   Medium   |  Backtracking  | [#136](/../../issues/136) |
+|   26   |       [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)       |   Easy   |  Two Pointers  | [#728](/../../issues/728) |
 |   33   |                            [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                            |   Medium   | Binary Search  |  [#68](/../../issues/68)  |
 |   36   |                                              [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                              |   Medium   |     Arrays & Hashing     |  [#35](/../../issues/35)  |
 |   38   |       [Count and Say](https://leetcode.com/problems/count-and-say/description/)       |   Medium   |  Strings  | [#686](/../../issues/686) |
