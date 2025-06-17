@@ -186,6 +186,7 @@
 |  962   |                                [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/description/)                                |   Medium   | Stack  |  [#296](/../../issues/296)  |
 |  973   |                                [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                                |   Medium   | Heap / Priority Queue  |  [#177](/../../issues/177)  |
 |  981   |                                [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                |   Medium   | Binary Search  |  [#70](/../../issues/70)  |
+|  986   |       [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/)       |   Medium   | Intervals  |  [#730](/../../issues/730)  |
 |  994   |                                           [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                           |   Medium   |     Graphs     | [#156](/../../issues/156) |
 |  997   |              [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)             |   Easy   |     Graphs     | [#629](/../../issues/629) |
 |  1007  |         [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/description/)         |   Medium   |     Greedy      | [#698](/../../issues/698) |
