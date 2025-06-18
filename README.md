@@ -178,6 +178,7 @@
 |  846   |                                      [Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/)                                      |   Medium   |     Greedy      |  [#350](/../../issues/350)  |
 |  853   |                                      [Car Fleet](https://leetcode.com/problems/car-fleet/)                                      |   Medium   |     Stack      |  [#48](/../../issues/48)  |
 |  875   |                                       [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                       |   Medium   | Binary Search  |  [#65](/../../issues/65)  |
+|  881   |         [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/)         |   Medium   |  Two Pointers  |  [#734](/../../issues/734)  |
 |  884   |                              [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)                            |   Easy   |  Strings  |  [#238](/../../issues/238)  |
 |  889   |                 [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/)                     |   Medium   |  Trees  |  [#569](/../../issues/569)  |
 |  916   |                                [Word Subsets](https://leetcode.com/problems/word-subsets/description/)                                |   Medium   | Strings  |  [#469](/../../issues/469)  |
