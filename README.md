@@ -158,6 +158,7 @@
 |  682   |          [Baseball Game](https://leetcode.com/problems/baseball-game/description/)          |   Easy   |     Stack     | [#690](/../../issues/690) |
 |  684   |                                        [Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                        |   Medium   |     Graphs     | [#171](/../../issues/171) |
 |  695   |                                        [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                        |   Medium   |     Graphs     | [#152](/../../issues/152) |
+|  701   |          [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)          |    Medium    | Trees  |  [#738](/../../issues/738)  |
 |  703   |                                             [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                        |    Easy    | Heap / Priority Queue  |  [#173](/../../issues/173)  |
 |  704   |                                             [Binary Search](https://leetcode.com/problems/binary-search/)                                             |    Easy    | Binary Search  |  [#57](/../../issues/57)  |
 |  729   |                                        [My Calendar I](https://leetcode.com/problems/my-calendar-i/)                                        |   Medium   |     Trees      |  [#257](/../../issues/257)  |
