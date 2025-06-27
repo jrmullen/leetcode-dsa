@@ -41,6 +41,7 @@
 |   77   |          [Combinations](https://leetcode.com/problems/combinations/description/)         |   Medium   |  Backtracking  | [#666](/../../issues/666) |
 |   78   |                                                   [Subsets](https://leetcode.com/problems/subsets/)                                                   |   Medium   |  Backtracking  | [#132](/../../issues/132) |
 |   79   |                                               [Word Search](https://leetcode.com/problems/word-search/)                                               |   Medium   |  Backtracking  | [#144](/../../issues/144) |
+|   88   |           [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)           |   Easy   |  Two Pointers  | [#744](/../../issues/744) |
 |   90   |                                                [Subsets II](https://leetcode.com/problems/subsets-ii/)                                                |   Medium   |  Backtracking  | [#140](/../../issues/140) |
 |   91   |                                                [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                |   Medium   |  1-D Dynamic Programming  | [#199](/../../issues/199) |
 |   92   |        [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)        |   Medium   |  Linked List  | [#684](/../../issues/684) |
