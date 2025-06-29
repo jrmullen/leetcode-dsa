@@ -37,6 +37,7 @@
 |   70   |                                        [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                        |   Easy   | 1-D Dynamic Programming  |  [#185](/../../issues/185)  |
 |   71   |        [Simplify Path](https://leetcode.com/problems/simplify-path/description/)        |   Medium   | Stack  |  [#713](/../../issues/713)  |
 |   74   |                                        [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                        |   Medium   | Binary Search  |  [#59](/../../issues/59)  |
+|   75   |        [Sort Colors](https://leetcode.com/problems/sort-colors/description/)        |   Medium   |  Arrays & Hashing  | [#748](/../../issues/748) |
 |   76   |                       [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                  |   Hard   |  Sliding Window  | [#394](/../../issues/394) |
 |   77   |          [Combinations](https://leetcode.com/problems/combinations/description/)         |   Medium   |  Backtracking  | [#666](/../../issues/666) |
 |   78   |                                                   [Subsets](https://leetcode.com/problems/subsets/)                                                   |   Medium   |  Backtracking  | [#132](/../../issues/132) |
