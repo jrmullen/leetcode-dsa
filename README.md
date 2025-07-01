@@ -165,6 +165,7 @@
 |  701   |          [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/)          |    Medium    | Trees  |  [#738](/../../issues/738)  |
 |  703   |                                             [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                        |    Easy    | Heap / Priority Queue  |  [#173](/../../issues/173)  |
 |  704   |                                             [Binary Search](https://leetcode.com/problems/binary-search/)                                             |    Easy    | Binary Search  |  [#57](/../../issues/57)  |
+|  705   |           [Design HashSet](https://leetcode.com/problems/design-hashset/description/)           |    Easy    | Arrays & Hashing  |  [#752](/../../issues/752)  |
 |  729   |                                        [My Calendar I](https://leetcode.com/problems/my-calendar-i/)                                        |   Medium   |     Trees      |  [#257](/../../issues/257)  |
 |  731   |                                        [My Calendar II](https://leetcode.com/problems/my-calendar-ii/)                                        |   Medium   |     Intervals      |  [#261](/../../issues/261)  |
 |  735   |          [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)          |   Medium   |     Stack      |  [#670](/../../issues/670)  |
