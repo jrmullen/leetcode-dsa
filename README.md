@@ -139,6 +139,7 @@
 |  416   |                               [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                               |   Medium   |     1-D Dynamic Programming     | [#209](/../../issues/209) |
 |  417   |                               [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                               |   Medium   |     Graphs     | [#158](/../../issues/158) |
 |  424   |                   [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                   |   Medium   | Sliding Window |  [#77](/../../issues/77)  |
+|  427   |          [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/description/)          |   Medium   | Trees |  [#750](/../../issues/750)  |
 |  432   |                   [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)                   |   Hard   | Linked List |  [#265](/../../issues/265)  |
 |  435   |                   [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)                   |       Medium       |       Intervals       |       [#290](/../../issues/290)  |
 |  440   |                   [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)                   |   Hard   | Tries |  [#246](/../../issues/246)  |
