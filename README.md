@@ -113,6 +113,7 @@
 |  253   |                                             [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/)                                             |    Medium    |     Intervals     |  [#298](/../../issues/298)  |
 |  261   |                           [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                           |   Medium   |     Graphs     |  [#167](/../../issues/167)  |
 |  263   |            [Ugly Number](https://leetcode.com/problems/ugly-number/description/)            |   Easy   |     Math & Geometry     |  [#754](/../../issues/754)  |
+|  264   |            [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)            |   Medium   |     1D-dynamic-programming     |  [#756](/../../issues/756)  |
 |  266   |                     [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/)                      |   Easy   |     Arrays & Hashing     |  [#605](/../../issues/605)  |
 |  268   |                     [Missing Number](https://leetcode.com/problems/missing-number/description/)                      |   Easy   |     Bit Manipulation     |  [#368](/../../issues/368)  |
 |  269   |                     [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/description/)                      |   Hard   |     Graphs     |  [#492](/../../issues/492)  |
