@@ -106,6 +106,7 @@
 |  225   |        [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)        |    Easy    |     Stack      |  [#766](/../../issues/766)  |
 |  226   |                                        [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                        |    Easy    |     Trees      |  [#97](/../../issues/97)  |
 |  230   |                             [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                             |   Medium   |     Trees      | [#126](/../../issues/126) |
+|  232   |         [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)         |   Easy   |     Stack      | [#768](/../../issues/768) |
 |  235   |            [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)            |   Medium   |     Trees      | [#114](/../../issues/114) |
 |  236   |            [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)            |   Medium   |     Trees      | [#647](/../../issues/647) |
 |  238   |                              [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                              |   Medium   |     Prefix Sum     |  [#32](/../../issues/32)  |
