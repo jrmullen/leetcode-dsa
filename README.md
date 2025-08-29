@@ -103,7 +103,7 @@
 |  215   |                                        [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                        |    Medium    |     Heap / Priority Queue     |  [#179](/../../issues/179)  |
 |  217   |                                        [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                        |    Easy    |     Arrays & Hashing     |  [#21](/../../issues/21)  |
 |  219   |       [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)       |    Easy    |     Arrays & Hashing     |  [#723](/../../issues/723)  |
-|  225   |        [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)        |    Easy    |     Trees      |  [#766](/../../issues/766)  |
+|  225   |        [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)        |    Easy    |     Stack      |  [#766](/../../issues/766)  |
 |  226   |                                        [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                        |    Easy    |     Trees      |  [#97](/../../issues/97)  |
 |  230   |                             [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                             |   Medium   |     Trees      | [#126](/../../issues/126) |
 |  235   |            [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)            |   Medium   |     Trees      | [#114](/../../issues/114) |
