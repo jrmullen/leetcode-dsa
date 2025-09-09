@@ -166,6 +166,7 @@
 |  658   |          [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/)           |   Medium   |     Sliding Window     | [#656](/../../issues/656) |
 |  670   |                                        [Maximum Swap](https://leetcode.com/problems/maximum-swap/description/)                                        |   Medium   |     Greedy     | [#314](/../../issues/314) |
 |  678   |                                        [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/description/)                                        |   Medium   |     Greedy     | [#363](/../../issues/363) |
+|  680   |        [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)        |   Easy   |     Two Pointers     | [#770](/../../issues/770) |
 |  682   |          [Baseball Game](https://leetcode.com/problems/baseball-game/description/)          |   Easy   |     Stack     | [#690](/../../issues/690) |
 |  684   |                                        [Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                        |   Medium   |     Graphs     | [#171](/../../issues/171) |
 |  695   |                                        [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                        |   Medium   |     Graphs     | [#152](/../../issues/152) |
