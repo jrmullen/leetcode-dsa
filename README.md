@@ -155,6 +155,7 @@
 |  515   |                                   [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)                                   |    Medium    |     Trees      | [#442](/../../issues/442) |
 |  518   |                     [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)                      |    Medium    |     2-D Dynamic Programming      | [#546](/../../issues/546) |
 |  539   |                                   [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)                                   |    Medium    |     Arrays & Hashing      | [#233](/../../issues/233) |
+|  542   |        [01 Matrix](https://leetcode.com/problems/01-matrix/description/)        |    Medium    |     Graphs      | [#772](/../../issues/772) |
 |  543   |                                   [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                   |    Easy    |     Trees      | [#105](/../../issues/105) |
 |  567   |                                     [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                     |   Medium   | Sliding Window |  [#78](/../../issues/78)  |
 |  572   |                                   [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                                   |    Easy    |     Trees      | [#112](/../../issues/112) |
