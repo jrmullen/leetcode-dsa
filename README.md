@@ -139,6 +139,7 @@
 |  371   |                                   [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/)                                   |   Medium   |     Bit Manipulation     |  [#406](/../../issues/406)  |
 |  374   |       [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)       |   Easy   |     Binary Search     |  [#763](/../../issues/763)  |
 |  377   |       [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)       |   Medium   |     1-D Dynamic Programming     |  [#721](/../../issues/721)  |
+|  383   |         [Ransom Note](https://leetcode.com/problems/ransom-note/description/)         |   Easy   |     Arrays & Hashing     |  [#776](/../../issues/776)  |
 |  386   |                                   [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)                                   |   Medium   |     Tries     |  [#244](/../../issues/244)  |
 |  394   |       [Decode String](https://leetcode.com/problems/decode-string/description/)     |   Medium   |     Stack     |  [#717](/../../issues/717)  |
 |  399   |       [Evaluate Division](https://leetcode.com/problems/evaluate-division/)     |   Medium   |     Graphs     |  [#195](/../../issues/195)  |
