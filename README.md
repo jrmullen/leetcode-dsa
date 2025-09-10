@@ -55,6 +55,7 @@
 |  105   | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |   Medium   |     Trees      | [#124](/../../issues/124) |
 |  110   |                                      [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                      |    Easy    |     Trees      | [#108](/../../issues/108) |
 |  111   |                              [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                              |    Easy    |     Trees      | [#101](/../../issues/101) |
+|  114   |                              [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)                              |    Medium    |     Trees      | [#774](/../../issues/774) |
 |  121   |                           [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                           |    Easy    | Sliding Window |  [#72](/../../issues/72)  |
 |  125   |                                          [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                          |    Easy    |  Two Pointers  |  [#50](/../../issues/50)  |
 |  127   |                         [Word Ladder](https://leetcode.com/problems/word-ladder/description/)                       |   Hard   |     Graphs     |  [#457](/../../issues/457)  |
