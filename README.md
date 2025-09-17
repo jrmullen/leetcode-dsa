@@ -144,6 +144,7 @@
 |  386   |                                   [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)                                   |   Medium   |     Tries     |  [#244](/../../issues/244)  |
 |  394   |       [Decode String](https://leetcode.com/problems/decode-string/description/)     |   Medium   |     Stack     |  [#717](/../../issues/717)  |
 |  399   |       [Evaluate Division](https://leetcode.com/problems/evaluate-division/)     |   Medium   |     Graphs     |  [#195](/../../issues/195)  |
+|  402   |       [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)     |   Medium   |     Stack     |  [#780](/../../issues/780)  |
 |  412   |                               [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)                               |   Easy   |     Strings     | [#409](/../../issues/409) |
 |  416   |                               [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                               |   Medium   |     1-D Dynamic Programming     | [#209](/../../issues/209) |
 |  417   |                               [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)                               |   Medium   |     Graphs     | [#158](/../../issues/158) |
