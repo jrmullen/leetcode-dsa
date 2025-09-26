@@ -77,6 +77,7 @@
 |  153   |                      [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                      |   Medium   | Binary Search  |  [#66](/../../issues/66)  |
 |  155   |                                                 [Min Stack](https://leetcode.com/problems/min-stack/)                                                 |   Medium   |     Stack      |  [#42](/../../issues/42)  |
 |  167   |                   [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                   |   Medium   |  Two Pointers  |  [#53](/../../issues/53)  |
+|  169   |                   [Majority Element](https://leetcode.com/problems/majority-element/description/)                   |   Easy   |  Arrays & Hashing  |  [#788](/../../issues/788)  |
 |  175   |                                        [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)                                        |    Easy    |    Database    |   [#3](/../../issues/3)   |
 |  176   |                                     [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                     |    Easy    |    Database    |   [#4](/../../issues/4)   |
 |  177   |                                        [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)                                        |   Medium   |    Database    |   [#5](/../../issues/5)   |
