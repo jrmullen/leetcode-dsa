@@ -38,6 +38,7 @@
 |   67   |        [Add Binary](https://leetcode.com/problems/add-binary/description/)        |   Easy   |     Bit Manipulation     |  [#719](/../../issues/719)  |
 |   70   |                                        [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                        |   Easy   | 1-D Dynamic Programming  |  [#185](/../../issues/185)  |
 |   71   |        [Simplify Path](https://leetcode.com/problems/simplify-path/description/)        |   Medium   | Stack  |  [#713](/../../issues/713)  |
+|   73   |        [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)        |   Medium   | Arrays & Hashing  |  [#792](/../../issues/792)  |
 |   74   |                                        [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                        |   Medium   | Binary Search  |  [#59](/../../issues/59)  |
 |   75   |        [Sort Colors](https://leetcode.com/problems/sort-colors/description/)        |   Medium   |  Arrays & Hashing  | [#748](/../../issues/748) |
 |   76   |                       [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)                  |   Hard   |  Sliding Window  | [#394](/../../issues/394) |
