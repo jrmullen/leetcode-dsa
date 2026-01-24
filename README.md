@@ -73,6 +73,7 @@
 |  144   |               [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)                |   Easy   |  Trees   | [#654](/../../issues/654) |
 |  145   |               [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)                |   Easy   |  Trees   | [#641](/../../issues/641) |
 |  146   |                                                 [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                 |   Medium   |  Linked List   | [#103](/../../issues/103) |
+  149   |           [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/)           |   Hard   |     Math & Geometry      |  [#806](/../../issues/806)  |
 |  150   |                          [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                          |   Medium   |     Stack      |  [#44](/../../issues/44)  |
 |  151   |                          [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                          |   Medium   |     Two Pointers      |  [#213](/../../issues/213)  |
 |  152   |                          [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                          |   Medium   |     1-D Dynamic Programming      |  [#203](/../../issues/203)  |
