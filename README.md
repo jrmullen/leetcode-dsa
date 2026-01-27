@@ -164,6 +164,7 @@
 |  463   |           [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)           |   Easy   |    Graphs    |  [#688](/../../issues/688)  |
 |  485   |                   [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)                   |   Easy   | Arrays & Hashing |  [#798](/../../issues/798)  |
 |  494   |                   [Target Sum](https://leetcode.com/problems/target-sum/description/)                   |   Medium   | 2-D Dynamic Programming |  [#570](/../../issues/570)  |
+|  503   |             [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)             |    Medium    |     Stack      | [#810](/../../issues/810)
 |  515   |                                   [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)                                   |    Medium    |     Trees      | [#442](/../../issues/442) |
 |  518   |                     [Coin Change II](https://leetcode.com/problems/coin-change-ii/description/)                      |    Medium    |     2-D Dynamic Programming      | [#546](/../../issues/546) |
 |  539   |                                   [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)                                   |    Medium    |     Arrays & Hashing      | [#233](/../../issues/233) |
